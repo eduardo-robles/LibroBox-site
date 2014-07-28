@@ -25,10 +25,10 @@
       <a href="http://rgvlibrobox.com/_posts/index.html">Blog</a>
     </li>
 <li>
-<a href="/home/eddie/Projects/LibroBox-site/about">About</a>
+<a href="http://rgvlibrobox.com/about/index.html">About</a>
 </li>
 <li>
-<a href="/home/eddie/Projects/LibroBox-site/connect">Connect</a>
+<a href="http://rgvlibrobox.com/connect/index.html">Connect</a>
 </li>
 </ul>
 
@@ -39,14 +39,17 @@
         </ul>
       </header>
       <section>
-        <ul>
+
+<h2>Excuse the mess this site is under construction.</h2>
+<h4>Check out the old site at <a href="http://rgvlibroboxproject.tumblr.com/">RGV Librobox</a></h4>
+        <!--<ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
-</ul>
+</ul>-->
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/eduardo-robles">eduardo-robles</a></p>

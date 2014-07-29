@@ -4,7 +4,7 @@
  <title>RGV LibroBox</title>
  <link href="http://rgvlibrobox.com/atom.xml" rel="self"/>
  <link href="http://rgvlibrobox.com/"/>
- <updated>2014-07-28T16:23:48-05:00</updated>
+ <updated>2014-07-28T19:43:11-05:00</updated>
  <id>http://rgvlibrobox.com</id>
  <author>
    <name>Eduardo Robles</name>
@@ -26,211 +26,1049 @@
  </entry>
  
  <entry>
-   <title>Introducing Poole</title>
-   <link href="http://rgvlibrobox.com//2014/01/02/introducing-poole/"/>
-   <updated>2014-01-02T00:00:00-06:00</updated>
-   <id>http://rgvlibrobox.com/2014/01/02/introducing-poole</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel&amp;#39;s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll&amp;#39;s loyal butler.&lt;/p&gt;
+   <title>Designing new interface</title>
+   <link href="http://rgvlibrobox.com//2014/07/26/designing-new-interface/"/>
+   <updated>2014-07-26T11:31:00-05:00</updated>
+   <id>http://rgvlibrobox.com/2014/07/26/designing-new-interface</id>
+   <content type="html">&lt;p&gt;It’s been some time since I sat down and desinged a new interface for the LibroBox. That’s why this past week I decided to give it another try and it was fun. Mainly because I found a new app that helps me build some quick protypes. The app is called POP and is available for iOS, Android, and via a web interface.&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;p&gt;With POP I was able to draw out on paper what I wanted the new interface to look like. Once I was satisfied with my mockup I simply took pictures of each mockup. With POP I was able to “act” out the functionality of each link, page, and even some individual elements.&lt;/p&gt;
 
-&lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It&amp;#39;s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.&lt;/p&gt;
+&lt;p&gt;This is the result. (Hint: It’s interactive!! So go ahead and click on elements on the mockup!)&lt;/p&gt;
 
-&lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
+&lt;p&gt;As you can see the interface is for mobile at the moment. It is also very simple. Before I started creating a mockup I thought about what I wanted to see and what would be best for users. I focused on the core purpose of projects like Librobox (Piratebox, LibraryBox) and determined the content was the most important component. It’s what users ultimately end up needing, using, and sharing.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://hyde.getpoole.com&quot;&gt;Hyde&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://lanyon.getpoole.com&quot;&gt;Lanyon&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;With this design I wanted the content to be front and center. I also wanted it to be something obvious for new users. There are plenty of new “ideas” on how to serve the content to users. The two main revision I feel I made were the video and chat pages. The video page has a built/pop in player. The chat page has a new interface that looks more like messaging on a phone that a Chatroom.&lt;/p&gt;
 
-&lt;p&gt;Learn more and contribute on &lt;a href=&quot;https://github.com/poole&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I also built another mockup extending the idea of the built/pop video player for the audio page.&lt;/p&gt;
 
-&lt;h3&gt;What&amp;#39;s included&lt;/h3&gt;
-
-&lt;p&gt;Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it, includes the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-&lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-&lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-&lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-&lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Additional features are available in individual themes.&lt;/p&gt;
-
-&lt;h3&gt;Browser support&lt;/h3&gt;
-
-&lt;p&gt;Poole and it&amp;#39;s themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-
-&lt;h3&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;Poole is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/poole&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
-
-&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;In the end I am really happy with this new interfaces. I will need to do some research to understand how to implement some of these newer functions. I like the second mockup and may build out this one. But I still have to make some refinements to the design/mockup and then I’ll start coding.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Example content</title>
-   <link href="http://rgvlibrobox.com//2014/01/01/example-content/"/>
-   <updated>2014-01-01T00:00:00-06:00</updated>
-   <id>http://rgvlibrobox.com/2014/01/01/example-content</id>
-   <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-&lt;/div&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
-
-&lt;h2&gt;Inline HTML elements&lt;/h2&gt;
-
-&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-&lt;li&gt;Citations, like &lt;cite&gt;&amp;mdash; Mark otto&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
-
-&lt;h2&gt;Heading&lt;/h2&gt;
-
-&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
-
-&lt;h3&gt;Code&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
-
-&lt;h3&gt;Gists via GitHub Pages&lt;/h3&gt;
-
-&lt;p&gt;Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.&lt;/p&gt;
-
-&lt;script src=&quot;https://gist.github.com/5555251.js?file=gist.md&quot;&gt; &lt;/script&gt;
-
-&lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.&lt;/p&gt;
-
-&lt;h3&gt;Lists&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
-&lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
-&lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
-&lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
-&lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
-  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
-
-  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
-  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
-
-  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
-  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;h3&gt;Images&lt;/h3&gt;
-
-&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot;&gt;
-&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot;&gt;
-&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot;&gt;&lt;/p&gt;
-
-&lt;h3&gt;Tables&lt;/h3&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Upvotes&lt;/th&gt;
-      &lt;th&gt;Downvotes&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Totals&lt;/td&gt;
-      &lt;td&gt;21&lt;/td&gt;
-      &lt;td&gt;23&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Alice&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bob&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Charlie&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
+   <title></title>
+   <link href="http://rgvlibrobox.com//2014/03/17/new-video-of-the-librarybox-2-0-running-smoothly/"/>
+   <updated>2014-03-17T17:51:03-05:00</updated>
+   <id>http://rgvlibrobox.com/2014/03/17/new-video-of-the-librarybox-2-0-running-smoothly</id>
+   <content type="html">&lt;p&gt;New video of the LibraryBox 2.0 running smoothly.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>What's Jekyll?</title>
-   <link href="http://rgvlibrobox.com//2013/12/31/whats-jekyll/"/>
-   <updated>2013-12-31T00:00:00-06:00</updated>
-   <id>http://rgvlibrobox.com/2013/12/31/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
+   <title>Code on Github.</title>
+   <link href="http://rgvlibrobox.com//2013/07/31/code-on-github/"/>
+   <updated>2013-07-31T18:12:33-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/07/31/code-on-github</id>
+   <content type="html">&lt;p&gt;As a refresher I put up some of the LibroBox landing page design code up on Github. You can find the post here. The post was short and sweet because the Github page is where the real magic happens!&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Currently I have another prototype design running on the LibroBox which I have designated as Design 3.0 ! But, that is only a temporary solution for a larger project that I have in mind.&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Not so long ago the LibraryBox project started a Kickstarter campaign to raise some funds to continue development of the project. They have successfully raised the funds and even surpassed the original goal by a huge margin! So congrats to them and I wish them luck.&lt;/p&gt;
+
+&lt;p&gt;What does that have to do with the future of LibroBox ? Well it simple LibroBox is built on LibraryBox and any advancements in LibraryBox is a good thing for _LibroBox  (whoa! that was packed sentence! :)). So full speed to them and full speed to LibroBox !!&lt;/p&gt;
+
+&lt;p&gt;So in the next few weeks I will be heavily concentrated on expanding the original idea of the LibroBox to really get to the crux of the project. The project needs to “connect”, so people can really understand it and embrace it.&lt;/p&gt;
+
+&lt;p&gt;I continue to be extremely excited by this project but the goal is to change things in the RGV. What needs to change? I still do not know but there is definitely a void that the LibroBox can fill.&lt;/p&gt;
+
+&lt;p&gt;So stick around I promise more exciting things to come!!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>LibraryBox 2.0</title>
+   <link href="http://rgvlibrobox.com//2013/07/26/librarybox-2-0/"/>
+   <updated>2013-07-26T10:08:45-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/07/26/librarybox-2-0</id>
+   <content type="html">&lt;p&gt;LibraryBox 2.0Share files with anyone, anywhere…off the Internet, even off the power grid…with LibraryBox.&lt;/p&gt;
+
+&lt;p&gt;I just backed LibraryBox 2.0 on  @kickstarter &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>a big thanks to eduardo millet at the mcallen</title>
+   <link href="http://rgvlibrobox.com//2013/07/23/a-big-thanks-to-eduardo-millet-at-the-mcallen/"/>
+   <updated>2013-07-23T18:16:57-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/07/23/a-big-thanks-to-eduardo-millet-at-the-mcallen</id>
+   <content type="html">&lt;p&gt;A Big thanks to Eduardo Millet at the Mcallen Chamber of Commerce for letting me use this MakerBot (3D printer) to print out this awesome piece!!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>new avatar based on the librarybox logo check</title>
+   <link href="http://rgvlibrobox.com//2013/07/19/new-avatar-based-on-the-librarybox-logo-check/"/>
+   <updated>2013-07-19T11:20:18-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/07/19/new-avatar-based-on-the-librarybox-logo-check</id>
+   <content type="html">&lt;p&gt;New Avatar based on the LibraryBox logo!! Check out the originals here&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Biblioteca Ayacucho: Literatura del México antiguo</title>
+   <link href="http://rgvlibrobox.com//2013/07/19/biblioteca-ayacucho-literatura-del-mexico-antiguo/"/>
+   <updated>2013-07-19T10:34:09-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/07/19/biblioteca-ayacucho-literatura-del-mexico-antiguo</id>
+   <content type="html">&lt;p&gt;Biblioteca Ayacucho: Literatura del México antiguoCheck out this great resource I found on out-of-copyright books on various subjects in &lt;strong&gt;Spanish&lt;/strong&gt;!! I’ve been searching the archive for interesting titles to put in the &lt;em&gt;LibroBox&lt;/em&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>LibroBox-Design-2.0</title>
+   <link href="http://rgvlibrobox.com//2013/07/06/librobox-design-2-0/"/>
+   <updated>2013-07-06T19:06:24-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/07/06/librobox-design-2-0</id>
+   <content type="html">&lt;p&gt;LibroBox-Design-2.0LibroBox-Design-2.0 - LibroBox Landing Page design 2.0&lt;/p&gt;
+
+&lt;p&gt;I’m currently learning how to use Git and GitHub so I can begin to release some of the code I use on the Landing Pages of the LibroBox. I’m a strong believer in the Open Source software principles and I feel it is necessary to share my work with the rest of the community. Offering my humble code back to the community is something that I always aspired to do with the RGV LibroBox project. So I hope someone somewhere can take advantage of this code and use to better their community.&lt;/p&gt;
+
+&lt;p&gt;-Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mcallen Mini Maker Faire</title>
+   <link href="http://rgvlibrobox.com//2013/06/29/mcallen-mini-maker-faire/"/>
+   <updated>2013-06-29T10:22:53-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/06/29/mcallen-mini-maker-faire</id>
+   <content type="html">&lt;p&gt;The Mcallen Mini Maker Faire was a lot of fun and it was great to talk to all of those who stopped by the booth. It was awesome to see so many people interested in the Maker Movement in the RGV. There’s some great projects out there and some really interesting people behind them.&lt;/p&gt;
+
+&lt;p&gt;Overall I’m really glad I got to participate in the Mcallen Mini Maker Faire  and I hope to participate in more local events in the future!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>McAllen Mini Maker Faire</title>
+   <link href="http://rgvlibrobox.com//2013/06/18/mcallen-mini-maker-faire/"/>
+   <updated>2013-06-18T09:17:58-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/06/18/mcallen-mini-maker-faire</id>
+   <content type="html">&lt;p&gt;McAllen Mini Maker FaireMake â¢ Create â¢ Craft â¢ Build â¢ Play&lt;/p&gt;
+
+&lt;p&gt;I’m proud to announce that RGV LibroBox will be at the Mcallen Mini Maker Faire on June 22, 2013! This is promising to be a great event for all those enthusiasts in D.I.Y, robots, hacking, knitting, anything really! So come on down to the Faire and have some fun!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="http://rgvlibrobox.com//2013/06/18/"/>
+   <updated>2013-06-18T09:14:51-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/06/</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>yohualtecuhtli need</title>
+   <link href="http://rgvlibrobox.com//2013/05/30/yohualtecuhtli-need/"/>
+   <updated>2013-05-30T17:16:18-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/05/30/yohualtecuhtli-need</id>
+   <content type="html">&lt;p&gt;yohualtecuhtli:&lt;/p&gt;
+
+&lt;p&gt;Need.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="http://rgvlibrobox.com//2013/05/13/working-on-a-summer-reading-list-and-planning-on/"/>
+   <updated>2013-05-13T15:29:00-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/05/13/working-on-a-summer-reading-list-and-planning-on</id>
+   <content type="html">&lt;p&gt;Working on a summer reading list and planning on improving the software on the LibroBox!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>aztecmusem the senator the banned author</title>
+   <link href="http://rgvlibrobox.com//2013/05/13/aztecmusem-the-senator-the-banned-author/"/>
+   <updated>2013-05-13T15:25:44-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/05/13/aztecmusem-the-senator-the-banned-author</id>
+   <content type="html">&lt;p&gt;aztecmusem:&lt;/p&gt;
+
+&lt;p&gt;The Senator, The Banned Author, &amp;amp; The Book Smuggler: Texas Representative Roberto Alonzo, &amp;amp; Dagoberto Gilb-who is banned in AZ, &amp;amp; Tony Diaz, El Librotraficante-all setting Gilb free in Tx by defeating HB1938.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>rgv librobox at utpa</title>
+   <link href="http://rgvlibrobox.com//2013/04/26/rgv-librobox-at-utpa/"/>
+   <updated>2013-04-26T17:09:57-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/04/26/rgv-librobox-at-utpa</id>
+   <content type="html">&lt;p&gt;RGV LibroBox at UTPA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Diversity Fair</title>
+   <link href="http://rgvlibrobox.com//2013/04/26/diversity-fair/"/>
+   <updated>2013-04-26T15:12:00-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/04/26/diversity-fair</id>
+   <content type="html">&lt;p&gt;The Mexican American Studies Club at UTPA will hosting a Diversity
+Fair  in an hour. If you’re in the Edinburg, TX area come on by and learn
+from all the great student orgs at UTPA.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The First Ever DigiNate!! I am happy to announce...</title>
+   <link href="http://rgvlibrobox.com//2013/04/26/the-first-ever-diginate-i-am-happy-to-announce/"/>
+   <updated>2013-04-26T11:31:16-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/04/26/the-first-ever-diginate-i-am-happy-to-announce</id>
+   <content type="html">&lt;p&gt;The First Ever DigiNate!! I am happy to announce...The First Ever DigiNate!! I am happy to announce a brand new campaign by the RGV Libro Box project, DigiNate! &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>diginate</title>
+   <link href="http://rgvlibrobox.com//2013/04/23/diginate/"/>
+   <updated>2013-04-23T15:31:39-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/04/23/diginate</id>
+   <content type="html">&lt;p&gt;The First Ever DigiNate!!&lt;/p&gt;
+
+&lt;p&gt;I am happy to announce a brand new campaign by the RGV Libro Box project, DigiNate!&lt;/p&gt;
+
+&lt;p&gt;What’s DigiNate?&lt;/p&gt;
+
+&lt;p&gt;-DigiNate is a simple AFK solution to donate your works to the RGV Libro Box project. Digital+Donate=DigiNate&lt;/p&gt;
+
+&lt;p&gt;How does it work?&lt;/p&gt;
+
+&lt;p&gt;-Simple you come by and I’ll help you either digitize your works or you can donate them directly to us.&lt;/p&gt;
+
+&lt;p&gt;When can I DigiNate?&lt;/p&gt;
+
+&lt;p&gt;-The first DigiNate will happen this Friday April 26, 2013&lt;/p&gt;
+
+&lt;p&gt;Where?&lt;/p&gt;
+
+&lt;p&gt;-At the University of Texas Pan American In Edinburg, TX. The RGV Libro Box project will be at the “This is what Diversity looks like” fair hosted by the Mexican American Studies Club. Click the link for more information.&lt;/p&gt;
+
+&lt;p&gt;This will be a great opportunity for anyone in the community to learn of the great work being doing by UTPA student organizations.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="http://rgvlibrobox.com//2013/04/20/dancepunksnotdead-mexican-children-learning/"/>
+   <updated>2013-04-20T10:48:02-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/04/20/dancepunksnotdead-mexican-children-learning</id>
+   <content type="html">&lt;p&gt;dancepunksnotdead:&lt;/p&gt;
+
+&lt;p&gt;Mexican children learning Nahuatl
+My heart is melting. Indigenous babieeeeees.
+I want to learn Nahuatl too!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>cedarxsmoke colonization and decolonization</title>
+   <link href="http://rgvlibrobox.com//2013/04/16/cedarxsmoke-colonization-and-decolonization/"/>
+   <updated>2013-04-16T22:36:31-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/04/16/cedarxsmoke-colonization-and-decolonization</id>
+   <content type="html">&lt;p&gt;cedarxsmoke:&lt;/p&gt;
+
+&lt;p&gt;Colonization and Decolonization - A Manual for Indigenous Liberation in the 21st Centruyby Zig-Zag, Warrior Publications.
+Available in PDF here &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>shivainlondon one child is holding something</title>
+   <link href="http://rgvlibrobox.com//2013/04/12/shivainlondon-one-child-is-holding-something/"/>
+   <updated>2013-04-12T12:31:46-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/04/12/shivainlondon-one-child-is-holding-something</id>
+   <content type="html">&lt;p&gt;shivainlondon:&lt;/p&gt;
+
+&lt;p&gt;“One child is holding something that’s been banned in America to protect them. Guess which one?”&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="http://rgvlibrobox.com//2013/04/08/"/>
+   <updated>2013-04-08T18:54:59-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/04/</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>rgv librobox will proudly support the</title>
+   <link href="http://rgvlibrobox.com//2013/04/07/rgv-librobox-will-proudly-support-the/"/>
+   <updated>2013-04-07T12:42:07-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/04/07/rgv-librobox-will-proudly-support-the</id>
+   <content type="html">&lt;p&gt;RGV LibroBox will proudly support the Librotraficantes all over the world in the fight against SB1128!&lt;/p&gt;
+
+&lt;p&gt;aztecmusem:&lt;/p&gt;
+
+&lt;p&gt;Texas Rise to stop stop SB1128. State-wide actions Friday April 26 www.NoTxSB1128.org http://www.chron.com/opinion/outlook/article/Plan-to-play-down-ethnic-studies-is-bad-for-Texas-4412967.php&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Submit</title>
+   <link href="http://rgvlibrobox.com//2013/04/07/submit/"/>
+   <updated>2013-04-07T10:57:48-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/04/07/submit</id>
+   <content type="html">&lt;p&gt;SubmitDon’t forget you can always submit your works to be featured in the LibroBox!&lt;/p&gt;
+
+&lt;p&gt;-Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>externalbatterypic</title>
+   <link href="http://rgvlibrobox.com//2013/04/06/externalbatterypic/"/>
+   <updated>2013-04-06T13:28:52-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/04/06/externalbatterypic</id>
+   <content type="html">&lt;p&gt;Got a new portable external battery for the LibroBox and I’m getting some interesting results.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Russell Contreras: How World War I planted the seeds for the Mexican American Civil Rights Movement</title>
+   <link href="http://rgvlibrobox.com//2013/03/23/russell-contreras-how-world-war-i-planted-the-seeds/"/>
+   <updated>2013-03-23T18:55:28-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/03/23/russell-contreras-how-world-war-i-planted-the-seeds</id>
+   <content type="html">&lt;p&gt;Russell Contreras: How World War I planted the seeds for the Mexican American Civil Rights Movementrusscontreras:&lt;/p&gt;
+
+&lt;p&gt;World War II is often credited with producing the first generation of U.S. Latino civil rights leaders. 
+But it was the Great War 30 years before that planted the seeds for a movement that would change the lives of U.S. Latinos.
+In 1917, the United States intercepted the Zimmerman Telegram….&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>radicalxic dora the explorer reads banned</title>
+   <link href="http://rgvlibrobox.com//2013/03/22/radicalxic-dora-the-explorer-reads-banned/"/>
+   <updated>2013-03-22T19:38:07-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/03/22/radicalxic-dora-the-explorer-reads-banned</id>
+   <content type="html">&lt;p&gt;radicalxic:&lt;/p&gt;
+
+&lt;p&gt;Dora the Explorer reads banned books. 
+Rethinking Columbus: The Next 500 Years (1998), by B. Bigelow and B. Peterson
+The Latino Condition: A Critical Reader (1998), by R. Delgado and J. Stefancic
+Critical Race Theory: An Introduction (2001), by R. Delgado and J. Stefancic
+Pedagogy of the Oppressed (2000), by P. Freire
+United States Government: Democracy in Action (2007), by R. C. Remy
+Dictionary of Latino Civil Rights History (2006), by F. A. Rosales
+Declarations of Independence: Cross-Examining American Ideology (1990), by H. Zinn
+Occupied America: A History of Chicanos (2004), by R. Acuna
+The Anaya Reader (1995), by R. Anaya
+The American Vision (2008), by J. Appleby et el.
+Rethinking Columbus: The Next 500 Years (1998), by B. Bigelow and B. Peterson
+Drink Cultura: Chicanismo (1992), by J. A. Burciaga
+Message to Aztlan: Selected Writings (1997), by C. Jiminez
+De Colores Means All of Us: Latina Views Multi-Colored Century (1998), by E. S. Martinez
+500 Anos Del Pueblo Chicano/500 Years of Chicano History in Pictures(1990), by E. S. Martinez
+Codex Tamuanchan: On Becoming Human (1998), by R. Rodriguez
+The X in La Raza II (1996), by R. Rodriguez
+Dictionary of Latino Civil Rights History (2006), by F. A. Rosales
+A People’s History of the United States: 1492 to Present (2003), by H. Zinn
+Ten Little Indians (2004), by S. Alexie
+The Fire Next Time (1990), by J. Baldwin
+Loverboys (2008), by A. Castillo
+Women Hollering Creek (1992), by S. Cisneros
+Mexican WhiteBoy (2008), by M. de la Pena
+Drown (1997), by J. Diaz
+Woodcuts of Women (2000), by D. Gilb
+At the Afro-Asian Conference in Algeria (1965), by E. Guevara
+Color Lines: “Does Anti-War Have to Be Anti-Racist Too?” (2003), by E. Martinez
+Culture Clash: Life, Death and Revolutionary Comedy (1998), by R. Montoya et al.
+Let Their Spirits Dance (2003) by S. Pope Duarte
+Two Badges: The Lives of Mona Ruiz (1997), by M. Ruiz
+The Tempest (1994), by W. Shakespeare
+A Different Mirror: A History of Multicultural America (1993), by R. Takaki
+The Devil’s Highway (2004), by L. A. Urrea
+Puro Teatro: A Latino Anthology (1999), by A. Sandoval-Sanchez &amp;amp; N. Saporta Sternbach
+Twelve Impossible Things before Breakfast: Stories (1997), by J. Yolen
+Voices of a People’s History of the United States (2004), by H. Zinn
+Live from Death Row (1996), by J. Abu-Jamal
+The Lone Ranger and Tonto Fist Fight in Heaven (1994), by S. Alexie
+Zorro (2005), by I. Allende
+Borderlands La Frontera: The New Mestiza (1999), by G. Anzaldua
+A Place to Stand (2002), by J. S. Baca
+C-Train and Thirteen Mexicans (2002), by J. S. Baca
+Healing Earthquakes: Poems (2001), by J. S. Baca
+Immigrants in Our Own Land and Selected Early Poems (1990), by J. S. Baca
+Black Mesa Poems (1989), by J. S. Baca
+Martin &amp;amp; Mediations on the South Valley (1987), by J. S. Baca
+The Manufactured Crisis: Myths, Fraud, and the Attack on America’s Public Schools (19950, by D. C. Berliner and B. J. Biddle
+Drink Cultura: Chicanismo (1992), by J. A Burciaga
+Red Hot Salsa: Bilingual Poems on Being Young and Latino in the United States (2005), by L. Carlson &amp;amp; O. Hijuielos
+Cool Salsa: Bilingual Poems on Growing up Latino in the United States(1995), by L. Carlson &amp;amp; O. Hijuielos
+So Far From God (1993), by A. Castillo
+Address to the Commonwealth Club of California (1985), by C. E. Chavez
+Women Hollering Creek (1992), by S. Cisneros
+House on Mango Street (1991), by S. Cisneros
+Drown (1997), by J. Diaz
+Suffer Smoke (2001), by E. Diaz Bjorkquist
+Zapata’s Discipline: Essays (1998), by M. Espada
+Like Water for Chocolate (1995), by L. Esquievel
+When Living was a Labor Camp (2000), by D. Garcia
+La Llorona: Our Lady of Deformities (2000), by R. Garcia
+Cantos Al Sexto Sol: An Anthology of Aztlanahuac Writing (2003), by C. Garcia-Camarilo, et al.
+The Magic of Blood (1994), by D. Gilb
+Message to Aztlan: Selected Writings (2001), by Rudolfo “Corky” Gonzales
+Saving Our Schools: The Case for Public Education, Saying No to “No Child Left Behind” (2004) by Goodman, et al.
+Feminism is for Everybody (2000), by b hooks
+The Circuit: Stories from the Life of a Migrant Child (1999), by F. Jimenez
+Savage Inequalities: Children in America’s Schools (1991), by J. Kozol
+Zigzagger (2003), by M. Munoz
+Infinite Divisions: An Anthology of Chicana Literature (1993), by T. D. Rebolledo &amp;amp; E. S. Rivero
+…y no se lo trago la tierra/And the Earth Did Not Devour Him (1995), by T. Rivera
+Always Running - La Vida Loca: Gang Days in L.A. (2005), by L. Rodriguez
+Justice: A Question of Race (1997), by R. Rodriguez
+The X in La Raza II (1996), by R. Rodriguez
+Crisis in American Institutions (2006), by S. H. Skolnick &amp;amp; E. Currie
+Los Tucsonenses: The Mexican Community in Tucson, 1854-1941 (1986), by T. Sheridan
+Curandera (1993), by Carmen Tafolla
+Mexican American Literature (1990), by C. M. Tatum
+New Chicana/Chicano Writing (1993), by C. M. Tatum
+Civil Disobedience (1993), by H. D. Thoreau
+By the Lake of Sleeping Children (1996), by L. A. Urrea
+Nobody’s Son: Notes from an American Life (2002), by L. A. Urrea
+Zoot Suit and Other Plays (1992), by L. Valdez
+Ocean Power: Poems from the Desert (1995), by O. Zepeda
+Bless Me Ultima, by Rudolfo Anaya
+Yo Soy Joaquin/I Am Joaquin, by Rodolfo Gonzales
+Into the Beautiful North, by Luis Alberto Urrea
+The Devil’s Highway, by Luis Alberto Urrea&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What is Chicano to a Non-Chicano?</title>
+   <link href="http://rgvlibrobox.com//2013/03/21/what-is-chicano-to-a-non-chicano/"/>
+   <updated>2013-03-21T14:24:33-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/03/21/what-is-chicano-to-a-non-chicano</id>
+   <content type="html">&lt;p&gt;What is Chicano to a Non-Chicano?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Librotraficante Justice: TX Senator Dan Patrick Auditions to Become the next Jan Brewer: SB1128 Would Kill Mexican American And African American...</title>
+   <link href="http://rgvlibrobox.com//2013/03/13/librotraficante-justice-tx-senator-dan-patrick/"/>
+   <updated>2013-03-13T19:19:47-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/03/13/librotraficante-justice-tx-senator-dan-patrick</id>
+   <content type="html">&lt;p&gt;Librotraficante Justice: TX Senator Dan Patrick Auditions to Become the next Jan Brewer: SB1128 Would Kill Mexican American And African American...aztecmusem:&lt;/p&gt;
+
+&lt;p&gt;For Immediate Release: &lt;/p&gt;
+
+&lt;p&gt;Contact:
+Tony Diaz (713) 867-8943 AztecMuse@aol.com
+Liana Lopez npliana@gmail.com&lt;/p&gt;
+
+&lt;p&gt;Houston, TX (March 13, 2013) – Does Texas Senator Dan Patrick want to prevent the story of Congressional Medal of Honor Recipient Roy Benavidez from…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>American Anthropological Assn. Will Experiment With Open Access</title>
+   <link href="http://rgvlibrobox.com//2013/03/11/american-anthropological-assn-will-experiment-with/"/>
+   <updated>2013-03-11T21:30:53-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/03/11/american-anthropological-assn-will-experiment-with</id>
+   <content type="html">&lt;p&gt;American Anthropological Assn. Will Experiment With Open Accessinfoneer-pulse:&lt;/p&gt;
+
+&lt;p&gt;The American Anthropological Association publishes more than 20 journals. None is open access. The public currently has to wait 35 years after publication to have free access to articles, according to a spokeswoman for the group.
+That will change early next year, when the journal Cultural Anthropology switches over to a fully open-access model. The Society for Cultural Anthropology, a section of the association, runs the journal.
+“Starting with the first issue of 2014, CA will provide worldwide, instant, free (to the user), and permanent access to all of our content (as well as 10 years of our back catalog),” Brad Weiss, the society’s president, said in a statement posted on the group’s Web site. He said that “Cultural Anthropology will be the first major, established, high-impact journal in anthropology to offer open access to all of its research” and that the society hopes the experiment will be useful to other open-access publishing efforts in the social sciences and humanities.&lt;/p&gt;
+
+&lt;p&gt;» via The Chronicle of Higher Education (Subscription may be required for some content)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>thepeoplesrecord arizonas law banning</title>
+   <link href="http://rgvlibrobox.com//2013/03/11/thepeoplesrecord-arizonas-law-banning/"/>
+   <updated>2013-03-11T21:23:20-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/03/11/thepeoplesrecord-arizonas-law-banning</id>
+   <content type="html">&lt;p&gt;thepeoplesrecord:&lt;/p&gt;
+
+&lt;p&gt;Arizona’s law banning Mexican-American studies curriculum is constitutional, judge rulesMarch 11, 2013
+A court upheld most provisions of an Arizona state law used to prohibit a controversial Mexican-American Studies curriculum in Tucson on Friday.
+The ruling dealt a blow to supporters of the suspended classes, who had hoped the courts would overturn a 2010 law championed by Arizona conservatives determined to shut down the unconventional courses.
+“I was really surprised at the decision,” Jose Gonzalez, a former teacher of Tucson’s suspended Mexican-American Studies classes, told The Huffington Post. “But as a student and teacher of history, I know in civil rights cases like this there’s always setbacks.”
+The experimental Tucson curriculum was offered to students in different forms in some of the local elementary, middle and high schools. It emphasized critical thinking and focused on Mexican-American literature and perspectives. Supporters lauded the program, pointing to increased graduation rates, high student achievement and a state-commissioned independent audit that recommended expanding the classes.
+But conservative opponents accused the teachers of encouraging students to adopt left-wing ideas and resent white people, a charge the teachers deny. Aiming squarely at Tucson’s Mexican-American Studies program, the Arizona legislature passed HB 2281 — a law banning courses that promote the overthrow of the U.S. government, foster racial resentment, are designed for students of a particular ethnic group or that advocate ethnic solidarity.
+Federal Judge Wallace Tashima said the plaintiffs failed to show the law was too vague, broad or discriminatory, or that it violated students’ first amendment rights.
+The news wasn’t all bad for supporters of the suspended classes. Tashima ruled that the section of the law prohibiting courses tailored to serve students of a particular ethnicity was unconstitutional.
+Originally filed in October of 2010 on behalf of the program’s former teachers, who lost standing because they are public employees, the case is currently brought by former Mexican-American Studies student Nicholas Dominguez and his mother Margarita Dominguez. They will likely appeal the ruling to the 9th U.S. Circuit Court of Appeals within the next 30 days, their lawyer Richard Martinez told The Huffington Post.
+“This case is not over,” Martinez said. “It’s not only important to Arizona, but to the country as a whole that this statute be addressed.”
+Arizona Attorney General Tom Horne began a campaign to eliminate the Mexican-American Studies program from Tucson Unified School District in 2006, when he was serving as the state’s Superintendent of Public Education.
+Angered that Mexican-American civil rights leader Dolores Huerta had said that “Republicans hate Latinos” in a speech to Tucson students, Horne sent Deputy Superintendent Margaret Dugan, a Latina Republican, to give an alternate view. But the intellectual exercise turned confrontational when students, who said they were not allowed to ask Dugan questions, sealed their mouths with tape and walked out of the assembly room.
+“As superintendent of schools, I have visited over 1,000 schools and I’ve never seen students be disrespectful to a teacher in that way,” Horne said in an interview last year.
+The final product of his efforts was House Bill 2281, which then-State Sen. John Huppenthal (R) helped pilot through the Arizona legislature. Huppenthal, who succeeded Horne as state superintendent of schools, then found Tucson out of compliance with the new law and ordered the district to shut Mexican-American Studies down or lose 10 percent of its annual funding — some $14 million over the fiscal year. In January of 2012, the school board complied, voting 4 to 1 to discontinue the classes.
+The decision drew national attention as administrators plucked Latino literature that once belonged to the curriculum from classrooms, explicitly banning seven titles from instruction.
+Tashima wrote in Friday’s ruling that Horne’s anti-Mexican-American Studies zeal bordered on discrimination.
+“This single-minded focus on terminating the MAS (Mexican-American Studies) program, along with Horne’s decision not to issue findings against other ethnic studies programs, is at least suggestive of discriminatory intent,” Tashima wrote.
+But the federal judge stopped short of invalidating the law on those grounds.
+“Although some aspects of the record may be viewed to spark suspicion that the Latino population has been improperly targeted, on the whole, the evidence indicates that Defendants targeted the MAS program, not Latino students, teachers or community members who participated in the program,” the judge wrote in the ruling.
+Not everyone agrees.
+Writer and activist Tony Diaz — who along with independent journalist Liana Lopez and multimedia artist Bryan Parras launched a “librotraficante” caravan to “smuggle” books banned from Tucson classrooms into Arizona — said the court had “failed our youth, our culture and freedom of speech” by upholding the Arizona ethnic studies law.
+“But we remain inspired by the youth of Tucson, the teachers, the families, the activists who will appeal this unjust ruling and continue the struggle to the Supreme Court,” Diaz said.
+SourcePhoto: Save Ethnic Studies by Julio Salgado&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>dailydoseoftexas la lomita chapel mission</title>
+   <link href="http://rgvlibrobox.com//2013/03/11/dailydoseoftexas-la-lomita-chapel-mission/"/>
+   <updated>2013-03-11T09:41:59-05:00</updated>
+   <id>http://rgvlibrobox.com/2013/03/11/dailydoseoftexas-la-lomita-chapel-mission</id>
+   <content type="html">&lt;p&gt;dailydoseoftexas:&lt;/p&gt;
+
+&lt;p&gt;La Lomita chapel, Mission, TX
+by Anthony Acosta&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>El Retorno: El Valle Celebra Nuestra Gloria Annual Event Featuring Carmen Tafolla Friday March 8th @ 7pm Student Union Theater</title>
+   <link href="http://rgvlibrobox.com//2013/03/06/el-retorno-el-valle-celebra-nuestra-gloria-annual/"/>
+   <updated>2013-03-06T10:08:42-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/03/06/el-retorno-el-valle-celebra-nuestra-gloria-annual</id>
+   <content type="html">&lt;p&gt;ereyes312:&lt;/p&gt;
+
+&lt;p&gt;Carmen Tafolla is San Antonio’s Post Laureate.  She writes in Spanish, English and Tex Mex.  This reading will be a celebration of Anzaldua’s essay from Borderlands/La Frontera “How to Tame a Wild Tongue” and related works.  For more on Carmen Tafolla, please visit her website at http://www.carmentafolla.com.  This event will take place during the Spanish in the U.S. Conference hosted at UTPA: http://sius2013.wordpress.com.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Presentation slides for NACCS Tejas Presentation</title>
+   <link href="http://rgvlibrobox.com//2013/03/06/slidesnaccs/"/>
+   <updated>2013-03-06T09:52:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/03/06/slidesnaccs</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>savewater drinkrain border wall at lincoln</title>
+   <link href="http://rgvlibrobox.com//2013/02/27/savewater-drinkrain-border-wall-at-lincoln/"/>
+   <updated>2013-02-27T19:00:10-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/02/27/savewater-drinkrain-border-wall-at-lincoln</id>
+   <content type="html">&lt;p&gt;savewater-drinkrain:&lt;/p&gt;
+
+&lt;p&gt;Border Wall at Lincoln Park #border #wall #texas #southtexas #brownsville #lincolnpark #rgv #park #instagram #instapic #picoftheday #photooftheday #mexico #unitedstates #usa&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Wrap Up of NACCS Tejas FOCO Presentation</title>
+   <link href="http://rgvlibrobox.com//2013/02/27/wrap-up-of-naccs-tejas-foco-presentation/"/>
+   <updated>2013-02-27T00:04:56-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/02/27/wrap-up-of-naccs-tejas-foco-presentation</id>
+   <content type="html">&lt;p&gt;This past Friday the 22nd of February I presented the RGV Libro Box project at the National Association of Chicana Chicano Studies Tejas Foco conference. It was the first conference for me and the first time the Libro Box was presented in public. I have to say that it was a big success not only on a personal level but a professional one as well. I was able to network with some very influential people at the conference.&lt;/p&gt;
+
+&lt;p&gt;I had the priviledge to meet Tony Diaz El Librotraficante and the Librotraficante Crew. They are an extremely dedicated group and they do some amazing work. I also met Sarah Rafael Garcia who is doing incredible work with Barrio Writers. Barrio Writers is a great program that helps our youth by providing them with an outlet to express themselves in a safe and encouraging environment.&lt;/p&gt;
+
+&lt;p&gt;Overall the conference was exciting and inspiring to experience. It was great to meet so many great people who come from all over the world and share their work/research. Like I said the RGV Libro Box project was received well and I think I will be able to do some collaborations with some other projects. But overall I think the RGV Libro Box project had another effect on people and dare I say on Chicana/o studies. I believe people saw a new expansion of the field into newer fields specifically technology. Not only was my project an innovative technological one but other panelist were exploring tech through the lens of Chicana/o studies. I was excited and others were excited at the level of research and activism  presented at this conference.&lt;/p&gt;
+
+&lt;p&gt;So what are the next step for the project after this successful conference. I think the next step is to create stronger ties with the community. If the banning of books is key issue that the RGV Libro Box project wishes to tackle then we must ensure we can do so effectively. If providing open access to information is necessary then we must work to provide accessibility.&lt;/p&gt;
+
+&lt;p&gt;But Teotihuacan was not built in one day so careful and effective planning must be made to ensure our goals. I have no doubt that through coalitions and collaborations we can all reach our goals!&lt;/p&gt;
+
+&lt;p&gt;*p.s 
+If you were at the event and have some pictures that you would like to share please email me at eduardorobles@rgvlibrobox.com Thanks.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Librotraficante Justice: The Chicano Literary Renaissance Thunders: NACCS rox!</title>
+   <link href="http://rgvlibrobox.com//2013/02/26/librotraficante-justice-the-chicano-literary/"/>
+   <updated>2013-02-26T20:52:34-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/02/26/librotraficante-justice-the-chicano-literary</id>
+   <content type="html">&lt;p&gt;Librotraficante Justice: The Chicano Literary Renaissance Thunders: NACCS rox!aztecmusem:&lt;/p&gt;
+
+&lt;p&gt;Updates every Tuesday, as we go on the air on
+90.1 FM, KPFT, Houston, TX. 6p-7p.
+www.kpft.org and Itunes.
+www.tonydiaz.net
+http://aztecmusem.tumblr.com/
+https://www.facebook.com/Librotraficante
+https://www.facebook.com/NuestraPalabra?ref=hl  It was great…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>lalunafemme chicanoarthistory mari</title>
+   <link href="http://rgvlibrobox.com//2013/02/16/lalunafemme-chicanoarthistory-mari/"/>
+   <updated>2013-02-16T09:55:39-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/02/16/lalunafemme-chicanoarthistory-mari</id>
+   <content type="html">&lt;p&gt;lalunafemme:&lt;/p&gt;
+
+&lt;p&gt;chicanoarthistory:&lt;/p&gt;
+
+&lt;p&gt;Mari Hernandez. Self Portrait. 2012&lt;/p&gt;
+
+&lt;p&gt;always reblog. seriously. so. damn. hotamazingtomanyfeelsaboutthispic.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NACCS TEJAS FOCO February 21st-23rd</title>
+   <link href="http://rgvlibrobox.com//2013/02/11/naccs-tejas-foco-february-21st-23rd/"/>
+   <updated>2013-02-11T12:33:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/02/11/naccs-tejas-foco-february-21st-23rd</id>
+   <content type="html">&lt;p&gt;I have some exciting news, I will presenting the RGV Libro Box Project at the National Association for Chicano/Chicana Studies Tejas Foco regional conference!! The conference will take place at the University of Texas Pan American this February 21-23.&lt;/p&gt;
+
+&lt;p&gt;The panel I will be sitting on is&lt;/p&gt;
+
+&lt;p&gt;Latin@ Public Literacies in Libraries, Schools, and Colonias
+LOCATION: ARHU 178&lt;/p&gt;
+
+&lt;p&gt;Chair: Jesus Ramos, University of Texas, Pan American&lt;/p&gt;
+
+&lt;p&gt;Public Libraries: Advocating Art in the Community
+Billy Cryer, McAllen Public Library
+Priscilla Suarez, McAllen Public Library&lt;/p&gt;
+
+&lt;p&gt;BW Pedagogy: The Write Path to Higher Education &amp;amp; Cultural Empowerment
+Sarah Rafael García, Texas State University, San Marcos&lt;/p&gt;
+
+&lt;p&gt;Bringing Latin@ Studies to the Primary School: A Modest Proposal
+Paola Gemme, Arkansas Tech University&lt;/p&gt;
+
+&lt;p&gt;The RGV Libro Box Project
+Eduardo Robles, University of Texas, Pan American&lt;/p&gt;
+
+&lt;p&gt;This is an exciting opportunity for me because this will be the first public demonstration of the Libro Box. This an open event and the public is invited to view the panels. For more information visit http://naccs-tejas-2013.blogspot.com/p/program.html&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Presentation at the UTPA Mexican American Studies Club</title>
+   <link href="http://rgvlibrobox.com//2013/02/06/presentation-at-the-utpa-mexican-american-studies-club/"/>
+   <updated>2013-02-06T20:28:40-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/02/06/presentation-at-the-utpa-mexican-american-studies-club</id>
+   <content type="html">&lt;p&gt;Firstly, I want to thank the Mexican American Studies Club at the University of Texas Pan American for allowing me to present the Libro Box project.&lt;/p&gt;
+
+&lt;p&gt;They are a wonderful student organization doing wonderful things for the college and the community. Through their hard work they have shown that Mexican American Studies is an important aspect of UTPA.&lt;/p&gt;
+
+&lt;p&gt;If you all want to find out more about the Mexican American Studies Club, check out their Facebook&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>nativeamericannews kansas state</title>
+   <link href="http://rgvlibrobox.com//2013/02/06/nativeamericannews-kansas-state/"/>
+   <updated>2013-02-06T20:11:49-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/02/06/nativeamericannews-kansas-state</id>
+   <content type="html">&lt;p&gt;nativeamericannews:&lt;/p&gt;
+
+&lt;p&gt;Kansas State Representative Ponka-We Victors Is a Political Warrior
+Wichita Democrat Ponka-We Victors was elected to the Kansas House of Representatives in 2010 in the face of a wave of Republican victories that swept across the state. As a young, first-term legislator, Victors, the first American Indian woman elected to the Kansas legislature, garnered state headlines in 2012 when she urged colleagues to reject proposals for strict immigration-enforcement laws during a hearing of the House Federal and State Affairs committee. “Personally,” said Victors, “my people have been fighting immigration since 1492. It doesn’t get any better.”&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="http://rgvlibrobox.com//2013/01/23/"/>
+   <updated>2013-01-23T09:49:45-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/01/</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="http://rgvlibrobox.com//2013/01/21/videooflibrobox/"/>
+   <updated>2013-01-21T11:17:53-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/01/21/videooflibrobox</id>
+   <content type="html">&lt;p&gt;Hello Everyone!&lt;/p&gt;
+
+&lt;p&gt;Here’s a short video (no audio) demonstrating some of the features of the Libro Box. This video shows exactly how the Libro Box works and what it does. So please watch and share with it if you can.&lt;/p&gt;
+
+&lt;p&gt;Thanks,
+Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Elizabeth Reyes: On Mexican/Xican@ History</title>
+   <link href="http://rgvlibrobox.com//2013/01/18/elizabeth-reyes-on-mexican-xican-history/"/>
+   <updated>2013-01-18T10:26:33-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/01/18/elizabeth-reyes-on-mexican-xican-history</id>
+   <content type="html">&lt;p&gt;Elizabeth Reyes: On Mexican/Xican@ Historyreclaimingthelatinatag:&lt;/p&gt;
+
+&lt;p&gt;tortillachronicles:&lt;/p&gt;
+
+&lt;p&gt;Peterpunxka asked: Hi, sorry for bothering ya, i just have a quick q: would you happen to know of books on Mexican and/or Xican@ history that you have read and/or recommend? as few or as many as youd like to share. gracias por tu tiempo,…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Aaron Swartz</title>
+   <link href="http://rgvlibrobox.com//2013/01/12/aaronswartz/"/>
+   <updated>2013-01-12T17:01:37-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/01/12/aaronswartz</id>
+   <content type="html">&lt;p&gt;Today I heard of the death of Aaron Swartz who committed suicide yesterday. Aaron Swartz was an important figure in the fight for Open Access. His support for an Open Internet and his work to ensure that everyone had access to knowledge will be missed.&lt;/p&gt;
+
+&lt;p&gt;I started the RGV Libro Box project because I wanted to fight the privatization of knowledge. I wanted to make access to information as easy and low-cost as possible. I did not know Aaron Swartz personally but his life was important. Every life is important. As someone who also has lost a family member to suicide I feel for his family and friends.&lt;/p&gt;
+
+&lt;p&gt;I’ll close by asking that if you or anyone you know is struggling with depression or mental illness please seek help. There’s no shame in it YOUR LIFE IS WORTH IT. Finally, I’ll quote Cory Doctorow in his boing boing post about Aaron Swartz “Where there’s life, there’s hope.”&lt;/p&gt;
+
+&lt;p&gt;Peace and Love,
+Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Submit plz? </title>
+   <link href="http://rgvlibrobox.com//2013/01/10/submit-plz/"/>
+   <updated>2013-01-10T11:35:39-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/01/10/submit-plz</id>
+   <content type="html">&lt;p&gt;Submit plz? rgvalternative:&lt;/p&gt;
+
+&lt;p&gt;writing.music.pictures.rants.whatever
+does not have to be valley related though we appreciate it if you were a valley native&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>1913</title>
+   <link href="http://rgvlibrobox.com//2013/01/09/1913/"/>
+   <updated>2013-01-09T22:28:17-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/01/09/1913</id>
+   <content type="html">&lt;p&gt;sherwoodzinelibrary:&lt;/p&gt;
+
+&lt;p&gt;1/9/13: CATALOG UPDATE!!!
+Lots of new zines have come through our library lately. Here’s a list of our latest additions! We’re almost at a THOUSAND zines!!!
+A
+The ABCs of the Revolutionary Anarchist - POL: ANARCHISM
+Anarchist Agitation and Community Building - POL: ANARCHISM
+Anarchy &amp;amp; Nihilism: Consequences - POL: ANARCHISM
+Applicant - HUMOR
+Apollo Astro #3 - COMICS
+B
+Bash the Fash: Anti-Fascist Recollections - POL: HISTORY
+Burlington A.R.A #2 - RACE
+C
+The Cadence: American Review of Jazz &amp;amp; Blues - MUSIC
+Civil Disobedience - POL
+Connected: Boston - TRAVEL/GEOGRAPHY
+D
+Decline at the Neptune - MUSIC
+Desert - ECO/NATURE
+Duplex Planet #163
+E
+Entomophagy - FOOD/COOKING
+H
+Heavenly Arm Ascendent - PERZINE
+Hot Tea Cold Water - TRAVEL/GEOGRAPHY
+I
+Ibbetson Street #25 - LIT/POETRY
+Interstate 69: Paving Over the Earth - ECO/NATURE
+J
+Jim O’Rourke Family Reader - MUSIC
+The Joy of Revenge - DIY
+Jumping Ship #1 - PERZINE
+The Juniper #4 - SPORTS/BIKES
+The Juniper #5 - ECO/NATURE
+K
+Karma Lodro - FOREIGN LANGUAGE
+Katie in Zombie Land (2 copies) - LIT/POETRY &amp;amp; CHILDREN’S
+L
+The Life and Times of Billy Roberts #27 - PERZINE
+M
+Mail Art - MISC
+Memories of Freedom - ECO/NATURE
+Monk Mink Pink Punk #1
+Monk Mink Pink Punk #3
+O
+Occupied Media - POL
+P
+Pan Vol. 3 #2 - POL: PRISONS
+The Pits a Hole for Fire - PERZINE
+Prisoner Within #5 - POL: PRISONS
+R
+Ration #4 - PERZINE
+Raw Paw #2 - ART/PHOTO
+Revising the Century - ART/PHOTO
+S
+Slingshot #111 - POL: ANARCHISM
+So What? #3 - PERZINE
+T
+Toward the Creative Nothing - POL: ANARCHISM
+U
+Upping the Anti #1 - POL: ACTIVISM
+W
+Will You Still Love Me if I Wet the Bed? - COMICS
+Words You Never Say #1 - LIT/POETRY
+Z
+Zen and the Art of Talking Shit, Homie #1
+Zombies Calling - COMICS&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="http://rgvlibrobox.com//2013/01/08/hello-and-welcome-to-the-rgv-libro-box-page-here/"/>
+   <updated>2013-01-08T16:13:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/01/08/hello-and-welcome-to-the-rgv-libro-box-page-here</id>
+   <content type="html">&lt;p&gt;Hello and welcome to the RGV Libro Box page. Here you will find all the details on the RGV Libro Box project. Feel free to have a look around and drop us a message, we love feedback. Again thank you for visiting and hope enjoy the  RGV Libro Box  project.&lt;/p&gt;
+
+&lt;p&gt;Thanks,&lt;/p&gt;
+
+&lt;p&gt;Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2013 State of the Libro Box Project.</title>
+   <link href="http://rgvlibrobox.com//2013/01/04/2013-state-of-the-libro-box-project/"/>
+   <updated>2013-01-04T00:00:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2013/01/04/2013-state-of-the-libro-box-project</id>
+   <content type="html">&lt;p&gt;It’s 2013 and I’m starting off the year on a good note. First, I want to give thanks to all of you who started to follow the project in 2012. This is my first project of this kind and it’s definitely a learning experience.&lt;/p&gt;
+
+&lt;p&gt;With the start of the new year I think some productive changes are in order. People are naturally stumbling upon the project and are interested in learning more. So I plan on updating the about page to give a more concise and clearer explanation of the project. Some of you may have noticed that this is not a “primary” blog but a “secondary” blog. I have another blog here on Tumblr and RGV Libro Box is a secondary blog from that account. The only issue with this setup is that Tumblr doesn’t give secondary blogs the ability to “follow” people. I’m looking at creating a primary blog or even a whole site for RGV Libro Box but this is not a priority at the moment.&lt;/p&gt;
+
+&lt;p&gt;Towards the end of 2012 I was so focused on learning the basics of what makes the LibraryBox (the Code) work that I didn’t have time to apply what I learned. So after learning some neat information I was able to implement a simpler method of categorizing the content inside the Libro Box. So much easier that it makes the my last attempt obsolete. I’ll do a blog post on those changes in the near future.&lt;/p&gt;
+
+&lt;p&gt;Also while learning more about the underlying code of the LibraryBox(V-1.5) I feel that it’s not well suited to carry the Libro Box Project into the future. Currently the PirateBox code is seeing more development and giving more support. I am debating whether to build off the original PirateBox code or continue with the LibraryBox code. The LibraryBox code does make it easier to customize the TP-Link MR3020 router. Also the LibraryBox code and philosophy is closer aligned to that of the Libro Box Project. I have not made any final decisions yet, this is just something I am considering.&lt;/p&gt;
+
+&lt;p&gt;This year I plan on actually doing field tests and start talking to local libraries and schools about the project. The more I talk to people the more ideas I get on how to improve the project. I hope that this year the dialogue can continue. So those are some plans that I have for the near future. If I can finish them within the time frame I planned out I think it will put the project on solid footing for 2013.&lt;/p&gt;
+
+&lt;p&gt;-Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What's in the LibroBox?</title>
+   <link href="http://rgvlibrobox.com//2012/12/10/whats-in-the-librobox/"/>
+   <updated>2012-12-10T18:42:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2012/12/10/whats-in-the-librobox</id>
+   <content type="html">&lt;p&gt;Here’s a list of the files anyone can find inside the Libro Box at the moment. This is list is short and can grow bigger. Remember that the amount files hosted in the Libro Box depends on the size of the USB thumb drive. The bigger the thumb drive the more files the Libro Box can host.&lt;/p&gt;
+
+&lt;p&gt;For easy reading I posted the file on Scribd where you can either view, download, or share. As always if you want to send your feed back please email at feedback@rgvlibrobox.com&lt;/p&gt;
+
+&lt;p&gt;*This uses the labeling system I discussed earlier.&lt;/p&gt;
+
+&lt;p&gt;*Direct link to view file http://www.scribd.com/doc/116275675/List-of-Materials&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Launch Day Feedback</title>
+   <link href="http://rgvlibrobox.com//2012/12/05/launch-day-feedback/"/>
+   <updated>2012-12-05T00:00:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2012/12/05/launch-day-feedback</id>
+   <content type="html">&lt;p&gt;Today has been a great day! As of officially announcing the RGV Libro Box Project I have gotten a lot of well wishes and constructive feedback. For that I thank you and encourage more open discussion.&lt;/p&gt;
+
+&lt;p&gt;One important piece of feedback I have gotten so far is in regards to submitting work (art, literature, etc) to the project. Before launch I had expressed a preference that any work submitted or added to the Libro Box is to be &amp;quot;Free to Use” : as in anything that can be freely; downloaded, copied, and distributed. But this still left some questions about submitting guidelines/procedures.&lt;/p&gt;
+
+&lt;p&gt;So today I am also launching the Submitting Digital Files Guidelines: Version 0.01. This is the first version of the guidelines that I will implement for the RGV Libro Box Project. As with any terms of service it is up for change if needed. For now I feel these general guidelines give a clear picture of how the RGV Libro Box Project will treat others digital/electronic files. The Libro Box is merely a repository of digital/electronic files, nothing more, nothing less.&lt;/p&gt;
+
+&lt;p&gt;To give you a real world example of how these guidelines will benefit the contributor and community I came up with the “Digital Art Gallery Week”.  Basically artists will submit their work under the set guidelines. Then I will host the digital/electronic file in the Libro Box for a week. After the week I will remove the specific submissions. This gives artists a digital space to display their work and the community can explore their work. And if all requirements are met then both parties (community and artists) get something out of it.&lt;/p&gt;
+
+&lt;p&gt;This is only one example of what can be done with the Libro Box. Like I have said before given the Open Source nature the the Libro Box, I can expand the uses for the project. Overall I think this was a very successful and constructive launch day. Again I thank all of those who reached out and those who help spread the word.&lt;/p&gt;
+
+&lt;p&gt;-Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Platforms: PirateBox VS. LibraryBox VS. Libro Box</title>
+   <link href="http://rgvlibrobox.com//2012/11/22/platforms-piratebox-vs-librarybox-vs-libro-box/"/>
+   <updated>2012-11-22T00:00:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2012/11/22/platforms-piratebox-vs-librarybox-vs-libro-box</id>
+   <content type="html">&lt;p&gt;What is PirateBox?&lt;/p&gt;
+
+&lt;p&gt;A PirateBox is a device created by a college professor that allows anyone to connect to a device that allows people to share files anonymously to the PirateBox. It essentially creates a repository of media that people can contribute to and download from. Or think of it as a communal USB memory stick. A USB memory stick where everyone can save files on and download from. And all files can be used, edited, and re-shared with anyone who has access to the USB memory stick.&lt;/p&gt;
+
+&lt;p&gt;What is LibraryBox?&lt;/p&gt;
+
+&lt;p&gt;A LibraryBox is a device similar to the PirateBox but its purpose is to share specific files with people anonymously. It too is a repository of media but it does not allow people to contribute media to the repository. Think of it a USB memory stick that a friend lends to you so you can download a file from it but you don’t put any files in it.&lt;/p&gt;
+
+&lt;p&gt;What is Libro Box?&lt;/p&gt;
+
+&lt;p&gt;The Libro Box is a LibraryBox but it will serve as a repository for Chicano literature/media thus inspiring the Spanish name for it.&lt;/p&gt;
+
+&lt;p&gt;Wrap Up&lt;/p&gt;
+
+&lt;p&gt;Which does the best goals for this project?&lt;/p&gt;
+
+&lt;p&gt;The LibraryBox(I call it the Libro Box) is the best for this project because this project wants to share large amounts of data with people without the need for them to share it back.&lt;/p&gt;
+
+&lt;p&gt;When did I decide to go with which?&lt;/p&gt;
+
+&lt;p&gt;I decided to go with the LibraryBox when we learned of its “use cases” and the flexibility it presented for the project.&lt;/p&gt;
+
+&lt;p&gt;Can I use a combination of both or only one?&lt;/p&gt;
+
+&lt;p&gt;The PirateBox has some unique features that the Libro Box doesn’t need at the moment. One feature is the ability to share (upload) files to the PirateBox. Since this project is more about giving than receiving I feel the LibraryBox software is better suited. But building a PirateBox required the same exact hardware and software so if the need arises the project can consider using a PirateBox.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Librotraficante!</title>
+   <link href="http://rgvlibrobox.com//2012/11/16/the-librotraficante/"/>
+   <updated>2012-11-16T00:00:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2012/11/16/the-librotraficante</id>
+   <content type="html">&lt;p&gt;In the last post I outlined some of the ideas behind the project and what I ultimately hope to accomplish. In this post I will examine how our project fits into the whole Librotraficante movement (Book Trafficker) taking place across the country.&lt;/p&gt;
+
+&lt;p&gt;First, a bit of history on the Librotraficante movement for those who may not be familiar with it. The movement was a response to the Arizona House Bill 2281 which states “HB 2281 prohibits a school district or charter school from including courses or classes that either promote the overthrow of the United States government or promote resentment toward a race or class of people.&amp;quot; via Arizona State Legislature.&lt;/p&gt;
+
+&lt;p&gt;The ambiguous language of the law caused the banning of 80+ books from the Tucson Unified School District. So the Librotrafincantes “smuggle[d] books back into the hands of our youth,” by collecting books and transporting them by way of a caravan into Arizona. So thus the now famous Librotrafincate Caravan was born.&lt;/p&gt;
+
+&lt;p&gt;It was a glorious and peaceful movement that ignited people to mobilize against this common threat. The movement brought attention to frailty that many ethnic studies programs faced across the country. For me it obviously hit home because I protested against the elimination of the Mexican American Studies program at my University. It was under different circumstances but the end result would have been the same.&lt;/p&gt;
+
+&lt;p&gt;So I followed closely the Librotrafincate movement did what I could to help spread the word. But I always felt I could do more than just telling people about it. Especially when the movement was asking for help 
+“…we have to not only make history, but record it, spread it, and then repeat it&amp;quot; via NewsTaco. Then one day the neurons in my brain linked up and an idea popped up. What if I could use or build a device that could store thousands of books and then share it with anyone for free? That device was the LibraryBox I then knew that this would be my contribution.&lt;/p&gt;
+
+&lt;p&gt;So I founded the RGV Libro Box project as a humble contribution to the Librotraficante movement. I feel that the Libro Box can help answer the call made by the Librotrafincate Manifesto. Specifically the the last point in the manifesto which states “We owe it to future generations to create networks and leave in our wake community resources that will last for decades and beyond.&amp;quot; via Librotraficante Manifesto.&lt;/p&gt;
+
+&lt;p&gt;My interpretation of the last point is that the Librotraficante movement is not only asking to build these networks in the “traditional” sense but to build more “modern” ones. A modern network where a community can access resources in a modern format. This is exactly why I created the RGV Libro Box project. The RGV Libro Box project is building the modern version of the Librotraficante Caravan. If the RGV Libro Box project is successful in the Rio Grande Valley we can take this model to other areas. And ultimately create those networks that can provide future generation valuable community resources. The RGV Libro Box project should not be thought of as a replacement but as a contribution.&lt;/p&gt;
+
+&lt;p&gt;So that is where I think the RGV Libro Box project fits into this whole movement. I hope that people understand the intentions behind the RGV Libro Box project and help in making it possible.&lt;/p&gt;
+
+&lt;p&gt;Yours truly,
+Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Quick Update</title>
+   <link href="http://rgvlibrobox.com//2012/11/16/quick-update/"/>
+   <updated>2012-11-16T00:00:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2012/11/16/quick-update</id>
+   <content type="html">&lt;p&gt;Today I ordered the router that I will use for testing and developing the Libro Box. This is the first step in getting the project off the ground. When the router comes in I will post some pictures of the unboxing and maybe some video. I plan on making a video to show the installation process and post the results for everyone to see.&lt;/p&gt;
+
+&lt;p&gt;Secondly, there is a donations portal on site and you can find it here. The fundraiser is completely optional but it would help if you could contribute. I predict that I will only need to raise enough money (total cost of $124) to build two additional Libro Boxes. Once that goal is reached I will cease the fundraising campaign, all funds raised will only be used to build the two Libro Boxes.&lt;/p&gt;
+
+&lt;p&gt;Lastly, I will make it a habit of keeping this site up to date. I created a twitter account for the project, simply follow @RGVLibroBox for updates. If you have any questions or concerns you can email me at Feedback@rgvlibrobox.com.&lt;/p&gt;
+
+&lt;p&gt;With that I want to thank those who have already started following the project. I want to thank the LibraryBox Project, without them I could not do the RGV Libro Box project. I want to thank the Librotraficantes who inspired me to start the RGV Libro Box project. I want to thank those who have already reached out and offered support. Lastly, I want to thank in advance all of those who support this project through donations.&lt;/p&gt;
+
+&lt;p&gt;Thank you,
+Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>So what's the plan?</title>
+   <link href="http://rgvlibrobox.com//2012/11/13/so-whats-the-plan/"/>
+   <updated>2012-11-13T00:00:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2012/11/13/so-whats-the-plan</id>
+   <content type="html">&lt;p&gt;This project is still in it’s early stages but I hope to be as transparent as possible. I believe in being as open and transparent as possible. This way we all learn together and can build a community together.&lt;/p&gt;
+
+&lt;p&gt;To start I have a  Project Goals  page where we outline two of the main goals that I hope to accomplish with this project. I see these goals as our &amp;quot;Beta&amp;quot; goals in the sense I plan on expanding on them if they are successful. We all gotta start somewhere right?&lt;/p&gt;
+
+&lt;p&gt;The first Project Goal is to give local communities open access to valuable information. I feel strongly that this information must be free of cost to the end user. This information should also be free to distribute by any user. I consider valuable information to be anything revolving around healthcare, law, education, and community development. The idea is simple anyone has the freedom to use and distribute the information inside the Libro Box freely.&lt;/p&gt;
+
+&lt;p&gt;The second Project Goal involves the distribution of &amp;quot;Free to Use&amp;quot; Chicano Literature. This goal I see as the hardest one to accomplish. First, I must explain what I mean by &amp;quot;Free to Use&amp;quot;. &amp;quot;Free to Use&amp;quot; is a concept that has many definitions but I define &amp;quot;Free to Use&amp;quot; : as anything that can be freely; downloaded, copied, and distributed. I plan on sticking to this definition for as long as I can. But I am open to modifying it in the future if the need arises.&lt;/p&gt;
+
+&lt;p&gt;I feel this strategy will be effective in circumventing any efforts to ban Chicano Literature. I know that the academic/professional/proprietary world may have a hard time giving up copyrighted works but copyright was meant to benefit us all not just the artist. Fair warning I am not copyright lawyer, so I welcome anyone who is willing to talk about copyright law or copyrighted material.&lt;/p&gt;
+
+&lt;p&gt;The second goal may seem difficult to accomplish but I know it’s not impossible. I just need your help and feedback. If we can accomplish these two &amp;quot;Beta&amp;quot; goals we can then move to replicating the results outside of the Rio Grande Valley. I have my sights set on putting an end to the attack on Chicano Literature. Most importantly I hope to prevent the banning of Chicano Literature.&lt;/p&gt;
+
+&lt;p&gt;To wrap up I have given more details on the Project Goals and what I hope to do once they are accomplish them. My overall plan is to ensure that local communities can benefit from this project. So if I am successful in the Rio Grande Valley I plan on expanding it to other locations.&lt;/p&gt;
+
+&lt;p&gt;-Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Will it work?</title>
+   <link href="http://rgvlibrobox.com//2012/11/09/will-it-work/"/>
+   <updated>2012-11-09T00:00:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2012/11/09/will-it-work</id>
+   <content type="html">&lt;p&gt;Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible. -St. Francis of Assisi&lt;/p&gt;
+
+&lt;p&gt;Getting started is always the hardest part when starting a new project. It’s even harder when your project involves real people and the aspiration for “real change”. I wanted to give back to the Rio Grande Valley so we founded the &amp;quot;RGV Libro Box&amp;quot; project.&lt;/p&gt;
+
+&lt;p&gt;I needed and wanted to do something to empower low-income households in the Rio Grande Valley. I felt it was necessary to put my skills to good use in my community.&lt;/p&gt;
+
+&lt;p&gt;Recently the Mcallen Independent School District was featured in one of Apple’s iPad Mini events. It was featured because Mcallen I.S.D may be the largest school districts in the nation to buy and give all it’s students iPads and iPod Touch. The goal of Mcallen I.S.D was to replace textbooks with a more modern piece of technology that could expand teaching opportunities.&lt;/p&gt;
+
+&lt;p&gt;In Weslaco, TX the Weslaco Independent School district has adopted a B.Y.O.T (Bring Your Own Technology) policy. The district wanted to expand it’s current curriculum to incorporate technology in the classrooms to provide a modern atmosphere for it’s students.&lt;/p&gt;
+
+&lt;p&gt;Though the Rio Grande Valley has two of the poorest counties in the nation it pushes on to ensure that education in our schools is on pace with modern technology. By investing in modern technology we can invest on our students futures.&lt;/p&gt;
+
+&lt;p&gt;It’s still to soon to tell if the adoption of these Hi-Tech teaching methods will work in the Rio Grande Valley. But I feel it’s better to nurture these advancements to ensure their success.&lt;/p&gt;
+
+&lt;p&gt;Why not try to incorporate valuable skills like computer programming and data collection with community empowerment? I have seen plenty of examples all over the country of people doing so. Code For America is a perfect example this strategy, its’ like a PeaceCorps for Geeks.&lt;/p&gt;
+
+&lt;p&gt;With the help of Libro Box I hope low-income households can gain access to valuable information such as health care information. Local government forms that can be accessed without the need for internet access. The RGV Libro Box Project can work with local school districts to ensure the the Libro Box contains information both parents and students need.&lt;/p&gt;
+
+&lt;p&gt;The uses for the Libro Box are endless and can be adapted to fit a variety of scenarios. So to answer the question “Will it work?” I feel it will.&lt;/p&gt;
+
+&lt;p&gt;-Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="http://rgvlibrobox.com//2012/11/09/so-what-is-the-libro-box-the-libro-box-is-a/"/>
+   <updated>2012-11-09T00:00:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2012/11/09/so-what-is-the-libro-box-the-libro-box-is-a</id>
+   <content type="html">&lt;p&gt;So What is the Libro Box?&lt;/p&gt;
+
+&lt;p&gt;The Libro Box is a custom version of the LibraryBox that the RGV Libro Box Project will build. The Libro Box is essentially a wireless distribution device that enables anyone to download media without the need for an internet connection. This is possible by installing the &amp;quot;LibraryBox&amp;quot; software on the TP-Link MR3020 router. The best part is that the Libro Box does not need to be connected to the Internet to share the educational media inside.&lt;/p&gt;
+
+&lt;p&gt;The TP-Link MR3020 router is like any other router, it can become a WiFi hotspot that shares a wireless connection. The underlying ability to share data wirelessly is the key that enables the Libro Box to share educational media wirelessly.&lt;/p&gt;
+
+&lt;p&gt;Once the &amp;quot;LibraryBox&amp;quot; software is installed on the TP-Link MR3020 router all you need to do is connect it to a power source and it begins sharing educational media wirelessly. The TP-Link MR3020 is now a Libro Box!&lt;/p&gt;
+
+&lt;p&gt;Anyone with a device that can connect to a WiFi hotspot can connect to the Libro Box freely. Once connected to the Libro Box WiFi connection open up a web browser on your device and a homepage will greet you with all the available media that anyone can download freely. And that’s it.&lt;/p&gt;
+
+&lt;p&gt;The above video is a video from the LIbraryBox website explaining how the  device works and showing a demo of the LibraryBox.&lt;/p&gt;
+
+&lt;p&gt;-Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Materials List</title>
+   <link href="http://rgvlibrobox.com//2012/11/09/materials-list/"/>
+   <updated>2012-11-09T00:00:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2012/11/09/materials-list</id>
+   <content type="html">&lt;p&gt;Building a Libro Box is relatively simple it requires very little components and a few hours of your time. In order to remain transparent as possible I’m going to outline the supplies I plan on using for this project.&lt;/p&gt;
+
+&lt;p&gt;Materials List&lt;/p&gt;
+
+&lt;p&gt;TP-Link MR3020 router: $40X2
+Generic 32GB USB flash drive: $22X2
+……………………
+total cost=$124
+As you can see I included the pricing (rounded up) of each item and multiplied it by how many units this project will need. I plan on building two Libro Box units to help us cover more ground. The first thing on the materials list is the TP-Link MR3020 router which is the backbone of the project. This device will eventually act as a “bridge” or “gateway” for people to wirelessly access data on the device.&lt;/p&gt;
+
+&lt;p&gt;Second thing on the materials list is a Generic 32GB USB Flash Drive. Now “Generic” is not a brand I literally mean “generic”, because brand does not matter here. But this project will be needing two of them, one for each Libro Box.&lt;/p&gt;
+
+&lt;p&gt;Lastly an Ethernet Cable  would help but is not completely necessary. Nonetheless Ethernet Cable cost roughly $10 for several feet. Though it would be great if someone could donate a big ol’ roll of it. It would cut down on future costs if I expand this project in the future.&lt;/p&gt;
+
+&lt;p&gt;As you can see there’s not much that goes into making a Libro Box. The biggest challenge is finding time to build the Libro Box. To open up this project up to the community even more I’m planning a “Hack-Fest&amp;quot; but more on that later.&lt;/p&gt;
+
+&lt;p&gt;-Eduardo&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="http://rgvlibrobox.com//2012/11/09/heres-the-unboxing-video-of-the-tp-link-mr3020/"/>
+   <updated>2012-11-09T00:00:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2012/11/09/heres-the-unboxing-video-of-the-tp-link-mr3020</id>
+   <content type="html">&lt;p&gt;Here’s the unboxing video of the TP-Link MR3020 router. This video was made using Mozilla Popcorn Maker.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>From LibraryBox to Libro Box</title>
+   <link href="http://rgvlibrobox.com//2012/11/09/from-librarybox-to-libro-box/"/>
+   <updated>2012-11-09T00:00:00-06:00</updated>
+   <id>http://rgvlibrobox.com/2012/11/09/from-librarybox-to-libro-box</id>
+   <content type="html">&lt;p&gt;The idea of what is a Libro Box is kind of hard to explain in words. It’s easier to explain with a hands on demonstration or video. Nonetheless I believe that it is still a good idea to try to explain some of the details of the Libro Box in a post.&lt;/p&gt;
+
+&lt;p&gt;First, the Libro Box is simply a re-naming of the LibraryBox, which is a wireless digital distribution device. The Library Box has a D.I.Y feel to it because it is not a commercial device in the sense that you cannot buy a LibraryBox on Amazon. But you can buy the components that will ultimately make a LibraryBox. There are two main components for the LibraryBox, a router and a USB memory stick. That’s it.&lt;/p&gt;
+
+&lt;p&gt;The next step is where the D.I.Y component comes into play because a regular router is not a LibraryBox you have to make it a LibraryBox. This is done by installing the LibraryBox software onto the router. This process is relatively simple for those with some relatively savvy tech skills.&lt;/p&gt;
+
+&lt;p&gt;If installation of the LibraryBox software is successful the next step is to fill up the USB memory stick with whatever you feel like sharing with people. It can be educational material or just funny pictures of your cat. Connect the USB memory stick to the router in the appropriate port. Then connect the router to power it and turn it on.&lt;/p&gt;
+
+&lt;p&gt;If all went well the router should now be broadcasting an open WiFi signal. This signal will show up as a regular open WiFi signal on any device that can connect to the internet. Connect to that open WiFi signal and start the web browser on your device. Once the web browser starts you will be greeted by a web page.&lt;/p&gt;
+
+&lt;p&gt;In the final step you simply have to browse the catalog of media on the web page, click on any link at it will begin to download the appropriate file. Once the file is downloaded you can open it up in the appropriate program.&lt;/p&gt;
+
+&lt;p&gt;To wrap up, the Libro Box is basically a custom LibraryBox for the RGV Libro Box project. The Libro Box can share files wirelessly with any device that connect to the internet. Anyone can browse and download the files inside freely.&lt;/p&gt;
+
+&lt;p&gt;-Eduardo&lt;/p&gt;
 </content>
  </entry>
  

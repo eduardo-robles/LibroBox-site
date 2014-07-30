@@ -4,7 +4,7 @@
  <title>RGV LibroBox</title>
  <link href="http://rgvlibrobox.com/atom.xml" rel="self"/>
  <link href="http://rgvlibrobox.com/"/>
- <updated>2014-07-28T19:46:54-05:00</updated>
+ <updated>2014-07-29T10:20:15-05:00</updated>
  <id>http://rgvlibrobox.com</id>
  <author>
    <name>Eduardo Robles</name>
@@ -49,10 +49,10 @@
  </entry>
  
  <entry>
-   <title></title>
-   <link href="http://rgvlibrobox.com//2014/03/17/new-video-of-the-librarybox-2-0-running-smoothly/"/>
+   <title>Video of LibraryBox 2.0 Running Smoothly</title>
+   <link href="http://rgvlibrobox.com//2014/03/17/video-of-librarybox-2-0-running-smoothly/"/>
    <updated>2014-03-17T17:51:03-05:00</updated>
-   <id>http://rgvlibrobox.com/2014/03/17/new-video-of-the-librarybox-2-0-running-smoothly</id>
+   <id>http://rgvlibrobox.com/2014/03/17/video-of-librarybox-2-0-running-smoothly</id>
    <content type="html">&lt;p&gt;New video of the LibraryBox 2.0 running smoothly.&lt;/p&gt;
 </content>
  </entry>
@@ -108,15 +108,6 @@
  </entry>
  
  <entry>
-   <title>Biblioteca Ayacucho: Literatura del México antiguo</title>
-   <link href="http://rgvlibrobox.com//2013/07/19/biblioteca-ayacucho-literatura-del-mexico-antiguo/"/>
-   <updated>2013-07-19T10:34:09-05:00</updated>
-   <id>http://rgvlibrobox.com/2013/07/19/biblioteca-ayacucho-literatura-del-mexico-antiguo</id>
-   <content type="html">&lt;p&gt;Biblioteca Ayacucho: Literatura del México antiguoCheck out this great resource I found on out-of-copyright books on various subjects in &lt;strong&gt;Spanish&lt;/strong&gt;!! I’ve been searching the archive for interesting titles to put in the &lt;em&gt;LibroBox&lt;/em&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>LibroBox-Design-2.0</title>
    <link href="http://rgvlibrobox.com//2013/07/06/librobox-design-2-0/"/>
    <updated>2013-07-06T19:06:24-05:00</updated>
@@ -145,40 +136,18 @@
    <link href="http://rgvlibrobox.com//2013/06/18/mcallen-mini-maker-faire/"/>
    <updated>2013-06-18T09:17:58-05:00</updated>
    <id>http://rgvlibrobox.com/2013/06/18/mcallen-mini-maker-faire</id>
-   <content type="html">&lt;p&gt;McAllen Mini Maker FaireMake â¢ Create â¢ Craft â¢ Build â¢ Play&lt;/p&gt;
+   <content type="html">&lt;p&gt;McAllen Mini Maker FaireMake. Create, Craft, Build and Play&lt;/p&gt;
 
 &lt;p&gt;I’m proud to announce that RGV LibroBox will be at the Mcallen Mini Maker Faire on June 22, 2013! This is promising to be a great event for all those enthusiasts in D.I.Y, robots, hacking, knitting, anything really! So come on down to the Faire and have some fun!&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>yohualtecuhtli need</title>
-   <link href="http://rgvlibrobox.com//2013/05/30/yohualtecuhtli-need/"/>
-   <updated>2013-05-30T17:16:18-05:00</updated>
-   <id>http://rgvlibrobox.com/2013/05/30/yohualtecuhtli-need</id>
-   <content type="html">&lt;p&gt;yohualtecuhtli:&lt;/p&gt;
-
-&lt;p&gt;Need.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title></title>
+   <title>Working on a Summer Reading List</title>
    <link href="http://rgvlibrobox.com//2013/05/13/working-on-a-summer-reading-list-and-planning-on/"/>
    <updated>2013-05-13T15:29:00-05:00</updated>
    <id>http://rgvlibrobox.com/2013/05/13/working-on-a-summer-reading-list-and-planning-on</id>
    <content type="html">&lt;p&gt;Working on a summer reading list and planning on improving the software on the LibroBox!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>aztecmusem the senator the banned author</title>
-   <link href="http://rgvlibrobox.com//2013/05/13/aztecmusem-the-senator-the-banned-author/"/>
-   <updated>2013-05-13T15:25:44-05:00</updated>
-   <id>http://rgvlibrobox.com/2013/05/13/aztecmusem-the-senator-the-banned-author</id>
-   <content type="html">&lt;p&gt;aztecmusem:&lt;/p&gt;
-
-&lt;p&gt;The Senator, The Banned Author, &amp;amp; The Book Smuggler: Texas Representative Roberto Alonzo, &amp;amp; Dagoberto Gilb-who is banned in AZ, &amp;amp; Tony Diaz, El Librotraficante-all setting Gilb free in Tx by defeating HB1938.&lt;/p&gt;
 </content>
  </entry>
  
@@ -222,7 +191,7 @@ from all the great student orgs at UTPA.&lt;/p&gt;
 
 &lt;p&gt;What’s DigiNate?&lt;/p&gt;
 
-&lt;p&gt;-DigiNate is a simple AFK solution to donate your works to the RGV Libro Box project. Digital+Donate=DigiNate&lt;/p&gt;
+&lt;p&gt;-DigiNate is a simple AFK solution to donate your works to the RGV LibroBox project. Digital+Donate=DigiNate&lt;/p&gt;
 
 &lt;p&gt;How does it work?&lt;/p&gt;
 
@@ -241,60 +210,11 @@ from all the great student orgs at UTPA.&lt;/p&gt;
  </entry>
  
  <entry>
-   <title></title>
-   <link href="http://rgvlibrobox.com//2013/04/20/dancepunksnotdead-mexican-children-learning/"/>
-   <updated>2013-04-20T10:48:02-05:00</updated>
-   <id>http://rgvlibrobox.com/2013/04/20/dancepunksnotdead-mexican-children-learning</id>
-   <content type="html">&lt;p&gt;dancepunksnotdead:&lt;/p&gt;
-
-&lt;p&gt;Mexican children learning Nahuatl
-My heart is melting. Indigenous babieeeeees.
-I want to learn Nahuatl too!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>cedarxsmoke colonization and decolonization</title>
-   <link href="http://rgvlibrobox.com//2013/04/16/cedarxsmoke-colonization-and-decolonization/"/>
-   <updated>2013-04-16T22:36:31-05:00</updated>
-   <id>http://rgvlibrobox.com/2013/04/16/cedarxsmoke-colonization-and-decolonization</id>
-   <content type="html">&lt;p&gt;cedarxsmoke:&lt;/p&gt;
-
-&lt;p&gt;Colonization and Decolonization - A Manual for Indigenous Liberation in the 21st Centruyby Zig-Zag, Warrior Publications.
-Available in PDF here &lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>shivainlondon one child is holding something</title>
-   <link href="http://rgvlibrobox.com//2013/04/12/shivainlondon-one-child-is-holding-something/"/>
-   <updated>2013-04-12T12:31:46-05:00</updated>
-   <id>http://rgvlibrobox.com/2013/04/12/shivainlondon-one-child-is-holding-something</id>
-   <content type="html">&lt;p&gt;shivainlondon:&lt;/p&gt;
-
-&lt;p&gt;“One child is holding something that’s been banned in America to protect them. Guess which one?”&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>rgv librobox will proudly support the</title>
-   <link href="http://rgvlibrobox.com//2013/04/07/rgv-librobox-will-proudly-support-the/"/>
-   <updated>2013-04-07T12:42:07-05:00</updated>
-   <id>http://rgvlibrobox.com/2013/04/07/rgv-librobox-will-proudly-support-the</id>
-   <content type="html">&lt;p&gt;RGV LibroBox will proudly support the Librotraficantes all over the world in the fight against SB1128!&lt;/p&gt;
-
-&lt;p&gt;aztecmusem:&lt;/p&gt;
-
-&lt;p&gt;Texas Rise to stop stop SB1128. State-wide actions Friday April 26 www.NoTxSB1128.org http://www.chron.com/opinion/outlook/article/Plan-to-play-down-ethnic-studies-is-bad-for-Texas-4412967.php&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Submit</title>
    <link href="http://rgvlibrobox.com//2013/04/07/submit/"/>
    <updated>2013-04-07T10:57:48-05:00</updated>
    <id>http://rgvlibrobox.com/2013/04/07/submit</id>
-   <content type="html">&lt;p&gt;SubmitDon’t forget you can always submit your works to be featured in the LibroBox!&lt;/p&gt;
+   <content type="html">&lt;p&gt;Submit! Don’t forget you can always submit your works to be featured in the LibroBox!&lt;/p&gt;
 
 &lt;p&gt;-Eduardo&lt;/p&gt;
 </content>
@@ -305,20 +225,8 @@ Available in PDF here &lt;/p&gt;
    <link href="http://rgvlibrobox.com//2013/04/06/externalbatterypic/"/>
    <updated>2013-04-06T13:28:52-05:00</updated>
    <id>http://rgvlibrobox.com/2013/04/06/externalbatterypic</id>
-   <content type="html">&lt;p&gt;Got a new portable external battery for the LibroBox and I’m getting some interesting results.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Russell Contreras: How World War I planted the seeds for the Mexican American Civil Rights Movement</title>
-   <link href="http://rgvlibrobox.com//2013/03/23/russell-contreras-how-world-war-i-planted-the-seeds/"/>
-   <updated>2013-03-23T18:55:28-05:00</updated>
-   <id>http://rgvlibrobox.com/2013/03/23/russell-contreras-how-world-war-i-planted-the-seeds</id>
-   <content type="html">&lt;p&gt;Russell Contreras: How World War I planted the seeds for the Mexican American Civil Rights Movementrusscontreras:&lt;/p&gt;
-
-&lt;p&gt;World War II is often credited with producing the first generation of U.S. Latino civil rights leaders. 
-But it was the Great War 30 years before that planted the seeds for a movement that would change the lives of U.S. Latinos.
-In 1917, the United States intercepted the Zimmerman Telegram….&lt;/p&gt;
+   <content type="html">&lt;p&gt;Got a new portable external battery for the LibroBox and I’m getting some interesting results.
+&lt;img src=&quot;http://rgvlibrobox.com/assests/Ppower.jpg&quot; alt=&quot;Portable Battery Power&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -422,32 +330,6 @@ The Devil’s Highway, by Luis Alberto Urrea&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>What is Chicano to a Non-Chicano?</title>
-   <link href="http://rgvlibrobox.com//2013/03/21/what-is-chicano-to-a-non-chicano/"/>
-   <updated>2013-03-21T14:24:33-05:00</updated>
-   <id>http://rgvlibrobox.com/2013/03/21/what-is-chicano-to-a-non-chicano</id>
-   <content type="html">&lt;p&gt;What is Chicano to a Non-Chicano?&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Librotraficante Justice: TX Senator Dan Patrick Auditions to Become the next Jan Brewer: SB1128 Would Kill Mexican American And African American...</title>
-   <link href="http://rgvlibrobox.com//2013/03/13/librotraficante-justice-tx-senator-dan-patrick/"/>
-   <updated>2013-03-13T19:19:47-05:00</updated>
-   <id>http://rgvlibrobox.com/2013/03/13/librotraficante-justice-tx-senator-dan-patrick</id>
-   <content type="html">&lt;p&gt;Librotraficante Justice: TX Senator Dan Patrick Auditions to Become the next Jan Brewer: SB1128 Would Kill Mexican American And African American...aztecmusem:&lt;/p&gt;
-
-&lt;p&gt;For Immediate Release: &lt;/p&gt;
-
-&lt;p&gt;Contact:
-Tony Diaz (713) 867-8943 AztecMuse@aol.com
-Liana Lopez npliana@gmail.com&lt;/p&gt;
-
-&lt;p&gt;Houston, TX (March 13, 2013) – Does Texas Senator Dan Patrick want to prevent the story of Congressional Medal of Honor Recipient Roy Benavidez from…&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>American Anthropological Assn. Will Experiment With Open Access</title>
    <link href="http://rgvlibrobox.com//2013/03/11/american-anthropological-assn-will-experiment-with/"/>
    <updated>2013-03-11T21:30:53-05:00</updated>
@@ -496,44 +378,11 @@ SourcePhoto: Save Ethnic Studies by Julio Salgado&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>dailydoseoftexas la lomita chapel mission</title>
-   <link href="http://rgvlibrobox.com//2013/03/11/dailydoseoftexas-la-lomita-chapel-mission/"/>
-   <updated>2013-03-11T09:41:59-05:00</updated>
-   <id>http://rgvlibrobox.com/2013/03/11/dailydoseoftexas-la-lomita-chapel-mission</id>
-   <content type="html">&lt;p&gt;dailydoseoftexas:&lt;/p&gt;
-
-&lt;p&gt;La Lomita chapel, Mission, TX
-by Anthony Acosta&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>El Retorno: El Valle Celebra Nuestra Gloria Annual Event Featuring Carmen Tafolla Friday March 8th @ 7pm Student Union Theater</title>
-   <link href="http://rgvlibrobox.com//2013/03/06/el-retorno-el-valle-celebra-nuestra-gloria-annual/"/>
-   <updated>2013-03-06T10:08:42-06:00</updated>
-   <id>http://rgvlibrobox.com/2013/03/06/el-retorno-el-valle-celebra-nuestra-gloria-annual</id>
-   <content type="html">&lt;p&gt;ereyes312:&lt;/p&gt;
-
-&lt;p&gt;Carmen Tafolla is San Antonio’s Post Laureate.  She writes in Spanish, English and Tex Mex.  This reading will be a celebration of Anzaldua’s essay from Borderlands/La Frontera “How to Tame a Wild Tongue” and related works.  For more on Carmen Tafolla, please visit her website at http://www.carmentafolla.com.  This event will take place during the Spanish in the U.S. Conference hosted at UTPA: http://sius2013.wordpress.com.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Presentation slides for NACCS Tejas Presentation</title>
    <link href="http://rgvlibrobox.com//2013/03/06/slidesnaccs/"/>
    <updated>2013-03-06T09:52:00-06:00</updated>
    <id>http://rgvlibrobox.com/2013/03/06/slidesnaccs</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>savewater drinkrain border wall at lincoln</title>
-   <link href="http://rgvlibrobox.com//2013/02/27/savewater-drinkrain-border-wall-at-lincoln/"/>
-   <updated>2013-02-27T19:00:10-06:00</updated>
-   <id>http://rgvlibrobox.com/2013/02/27/savewater-drinkrain-border-wall-at-lincoln</id>
-   <content type="html">&lt;p&gt;savewater-drinkrain:&lt;/p&gt;
-
-&lt;p&gt;Border Wall at Lincoln Park #border #wall #texas #southtexas #brownsville #lincolnpark #rgv #park #instagram #instapic #picoftheday #photooftheday #mexico #unitedstates #usa&lt;/p&gt;
+   <content type="html">&lt;p&gt;Slides from NACCC Tejas FOCO presentation http://rgvlibroboxproject.tumblr.com/post/44707086228/slidesnaccs&lt;/p&gt;
 </content>
  </entry>
  
@@ -542,7 +391,7 @@ by Anthony Acosta&lt;/p&gt;
    <link href="http://rgvlibrobox.com//2013/02/27/wrap-up-of-naccs-tejas-foco-presentation/"/>
    <updated>2013-02-27T00:04:56-06:00</updated>
    <id>http://rgvlibrobox.com/2013/02/27/wrap-up-of-naccs-tejas-foco-presentation</id>
-   <content type="html">&lt;p&gt;This past Friday the 22nd of February I presented the RGV Libro Box project at the National Association of Chicana Chicano Studies Tejas Foco conference. It was the first conference for me and the first time the Libro Box was presented in public. I have to say that it was a big success not only on a personal level but a professional one as well. I was able to network with some very influential people at the conference.&lt;/p&gt;
+   <content type="html">&lt;p&gt;This past Friday the 22nd of February I presented the RGV LibroBox project at the National Association of Chicana Chicano Studies Tejas Foco conference. It was the first conference for me and the first time the Libro Box was presented in public. I have to say that it was a big success not only on a personal level but a professional one as well. I was able to network with some very influential people at the conference.&lt;/p&gt;
 
 &lt;p&gt;I had the priviledge to meet Tony Diaz El Librotraficante and the Librotraficante Crew. They are an extremely dedicated group and they do some amazing work. I also met Sarah Rafael Garcia who is doing incredible work with Barrio Writers. Barrio Writers is a great program that helps our youth by providing them with an outlet to express themselves in a safe and encouraging environment.&lt;/p&gt;
 
@@ -554,38 +403,6 @@ by Anthony Acosta&lt;/p&gt;
 
 &lt;p&gt;*p.s 
 If you were at the event and have some pictures that you would like to share please email me at eduardorobles@rgvlibrobox.com Thanks.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Librotraficante Justice: The Chicano Literary Renaissance Thunders: NACCS rox!</title>
-   <link href="http://rgvlibrobox.com//2013/02/26/librotraficante-justice-the-chicano-literary/"/>
-   <updated>2013-02-26T20:52:34-06:00</updated>
-   <id>http://rgvlibrobox.com/2013/02/26/librotraficante-justice-the-chicano-literary</id>
-   <content type="html">&lt;p&gt;Librotraficante Justice: The Chicano Literary Renaissance Thunders: NACCS rox!aztecmusem:&lt;/p&gt;
-
-&lt;p&gt;Updates every Tuesday, as we go on the air on
-90.1 FM, KPFT, Houston, TX. 6p-7p.
-www.kpft.org and Itunes.
-www.tonydiaz.net
-http://aztecmusem.tumblr.com/
-https://www.facebook.com/Librotraficante
-https://www.facebook.com/NuestraPalabra?ref=hl  It was great…&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>lalunafemme chicanoarthistory mari</title>
-   <link href="http://rgvlibrobox.com//2013/02/16/lalunafemme-chicanoarthistory-mari/"/>
-   <updated>2013-02-16T09:55:39-06:00</updated>
-   <id>http://rgvlibrobox.com/2013/02/16/lalunafemme-chicanoarthistory-mari</id>
-   <content type="html">&lt;p&gt;lalunafemme:&lt;/p&gt;
-
-&lt;p&gt;chicanoarthistory:&lt;/p&gt;
-
-&lt;p&gt;Mari Hernandez. Self Portrait. 2012&lt;/p&gt;
-
-&lt;p&gt;always reblog. seriously. so. damn. hotamazingtomanyfeelsaboutthispic.&lt;/p&gt;
 </content>
  </entry>
  
@@ -625,7 +442,7 @@ Eduardo Robles, University of Texas, Pan American&lt;/p&gt;
    <link href="http://rgvlibrobox.com//2013/02/06/presentation-at-the-utpa-mexican-american-studies-club/"/>
    <updated>2013-02-06T20:28:40-06:00</updated>
    <id>http://rgvlibrobox.com/2013/02/06/presentation-at-the-utpa-mexican-american-studies-club</id>
-   <content type="html">&lt;p&gt;Firstly, I want to thank the Mexican American Studies Club at the University of Texas Pan American for allowing me to present the Libro Box project.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Firstly, I want to thank the Mexican American Studies Club at the University of Texas Pan American for allowing me to present the LibroBox project.&lt;/p&gt;
 
 &lt;p&gt;They are a wonderful student organization doing wonderful things for the college and the community. Through their hard work they have shown that Mexican American Studies is an important aspect of UTPA.&lt;/p&gt;
 
@@ -634,19 +451,7 @@ Eduardo Robles, University of Texas, Pan American&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>nativeamericannews kansas state</title>
-   <link href="http://rgvlibrobox.com//2013/02/06/nativeamericannews-kansas-state/"/>
-   <updated>2013-02-06T20:11:49-06:00</updated>
-   <id>http://rgvlibrobox.com/2013/02/06/nativeamericannews-kansas-state</id>
-   <content type="html">&lt;p&gt;nativeamericannews:&lt;/p&gt;
-
-&lt;p&gt;Kansas State Representative Ponka-We Victors Is a Political Warrior
-Wichita Democrat Ponka-We Victors was elected to the Kansas House of Representatives in 2010 in the face of a wave of Republican victories that swept across the state. As a young, first-term legislator, Victors, the first American Indian woman elected to the Kansas legislature, garnered state headlines in 2012 when she urged colleagues to reject proposals for strict immigration-enforcement laws during a hearing of the House Federal and State Affairs committee. “Personally,” said Victors, “my people have been fighting immigration since 1492. It doesn’t get any better.”&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title></title>
+   <title>Video of LibroBox</title>
    <link href="http://rgvlibrobox.com//2013/01/21/videooflibrobox/"/>
    <updated>2013-01-21T11:17:53-06:00</updated>
    <id>http://rgvlibrobox.com/2013/01/21/videooflibrobox</id>
@@ -660,19 +465,6 @@ Eduardo&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Elizabeth Reyes: On Mexican/Xican@ History</title>
-   <link href="http://rgvlibrobox.com//2013/01/18/elizabeth-reyes-on-mexican-xican-history/"/>
-   <updated>2013-01-18T10:26:33-06:00</updated>
-   <id>http://rgvlibrobox.com/2013/01/18/elizabeth-reyes-on-mexican-xican-history</id>
-   <content type="html">&lt;p&gt;Elizabeth Reyes: On Mexican/Xican@ Historyreclaimingthelatinatag:&lt;/p&gt;
-
-&lt;p&gt;tortillachronicles:&lt;/p&gt;
-
-&lt;p&gt;Peterpunxka asked: Hi, sorry for bothering ya, i just have a quick q: would you happen to know of books on Mexican and/or Xican@ history that you have read and/or recommend? as few or as many as youd like to share. gracias por tu tiempo,…&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Aaron Swartz</title>
    <link href="http://rgvlibrobox.com//2013/01/12/aaronswartz/"/>
    <updated>2013-01-12T17:01:37-06:00</updated>
@@ -681,7 +473,7 @@ Eduardo&lt;/p&gt;
 
 &lt;p&gt;I started the RGV Libro Box project because I wanted to fight the privatization of knowledge. I wanted to make access to information as easy and low-cost as possible. I did not know Aaron Swartz personally but his life was important. Every life is important. As someone who also has lost a family member to suicide I feel for his family and friends.&lt;/p&gt;
 
-&lt;p&gt;I’ll close by asking that if you or anyone you know is struggling with depression or mental illness please seek help. There’s no shame in it YOUR LIFE IS WORTH IT. Finally, I’ll quote Cory Doctorow in his boing boing post about Aaron Swartz “Where there’s life, there’s hope.”&lt;/p&gt;
+&lt;p&gt;I’ll close by asking that if you or anyone you know is struggling with depression or mental illness please seek help. There’s no shame in it YOUR LIFE IS WORTH IT. Finally, I’ll quote Cory Doctorow in his Boing Boing post about Aaron Swartz “Where there’s life, there’s hope.”&lt;/p&gt;
 
 &lt;p&gt;Peace and Love,
 Eduardo&lt;/p&gt;
@@ -689,19 +481,7 @@ Eduardo&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Submit plz? </title>
-   <link href="http://rgvlibrobox.com//2013/01/10/submit-plz/"/>
-   <updated>2013-01-10T11:35:39-06:00</updated>
-   <id>http://rgvlibrobox.com/2013/01/10/submit-plz</id>
-   <content type="html">&lt;p&gt;Submit plz? rgvalternative:&lt;/p&gt;
-
-&lt;p&gt;writing.music.pictures.rants.whatever
-does not have to be valley related though we appreciate it if you were a valley native&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title></title>
+   <title>Hello and Welcome to RGV LibroBox</title>
    <link href="http://rgvlibrobox.com//2013/01/08/hello-and-welcome-to-the-rgv-libro-box-page-here/"/>
    <updated>2013-01-08T16:13:00-06:00</updated>
    <id>http://rgvlibrobox.com/2013/01/08/hello-and-welcome-to-the-rgv-libro-box-page-here</id>
@@ -724,7 +504,7 @@ does not have to be valley related though we appreciate it if you were a valley 
 
 &lt;p&gt;Towards the end of 2012 I was so focused on learning the basics of what makes the LibraryBox (the Code) work that I didn’t have time to apply what I learned. So after learning some neat information I was able to implement a simpler method of categorizing the content inside the Libro Box. So much easier that it makes the my last attempt obsolete. I’ll do a blog post on those changes in the near future.&lt;/p&gt;
 
-&lt;p&gt;Also while learning more about the underlying code of the LibraryBox(V-1.5) I feel that it’s not well suited to carry the Libro Box Project into the future. Currently the PirateBox code is seeing more development and giving more support. I am debating whether to build off the original PirateBox code or continue with the LibraryBox code. The LibraryBox code does make it easier to customize the TP-Link MR3020 router. Also the LibraryBox code and philosophy is closer aligned to that of the Libro Box Project. I have not made any final decisions yet, this is just something I am considering.&lt;/p&gt;
+&lt;p&gt;Also while learning more about the underlying code of the LibraryBox(V-1.5) I feel that it’s not well suited to carry the LibroBox Project into the future. Currently the PirateBox code is seeing more development and giving more support. I am debating whether to build off the original PirateBox code or continue with the LibraryBox code. The LibraryBox code does make it easier to customize the TP-Link MR3020 router. Also the LibraryBox code and philosophy is closer aligned to that of the LibroBox Project. I have not made any final decisions yet, this is just something I am considering.&lt;/p&gt;
 
 &lt;p&gt;This year I plan on actually doing field tests and start talking to local libraries and schools about the project. The more I talk to people the more ideas I get on how to improve the project. I hope that this year the dialogue can continue. So those are some plans that I have for the near future. If I can finish them within the time frame I planned out I think it will put the project on solid footing for 2013.&lt;/p&gt;
 
@@ -741,9 +521,9 @@ does not have to be valley related though we appreciate it if you were a valley 
 
 &lt;p&gt;For easy reading I posted the file on Scribd where you can either view, download, or share. As always if you want to send your feed back please email at feedback@rgvlibrobox.com&lt;/p&gt;
 
-&lt;p&gt;*This uses the labeling system I discussed earlier.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This uses the labeling system I discussed earlier.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;*Direct link to view file http://www.scribd.com/doc/116275675/List-of-Materials&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Direct link to view&lt;/em&gt; &lt;a href=&quot;http://www.scribd.com/doc/116275675/List-of-Materials&quot;&gt;file&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -752,7 +532,7 @@ does not have to be valley related though we appreciate it if you were a valley 
    <link href="http://rgvlibrobox.com//2012/12/05/launch-day-feedback/"/>
    <updated>2012-12-05T00:00:00-06:00</updated>
    <id>http://rgvlibrobox.com/2012/12/05/launch-day-feedback</id>
-   <content type="html">&lt;p&gt;Today has been a great day! As of officially announcing the RGV Libro Box Project I have gotten a lot of well wishes and constructive feedback. For that I thank you and encourage more open discussion.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Today has been a great day! As of officially announcing the RGV LibroBox Project I have gotten a lot of well wishes and constructive feedback. For that I thank you and encourage more open discussion.&lt;/p&gt;
 
 &lt;p&gt;One important piece of feedback I have gotten so far is in regards to submitting work (art, literature, etc) to the project. Before launch I had expressed a preference that any work submitted or added to the Libro Box is to be &amp;quot;Free to Use” : as in anything that can be freely; downloaded, copied, and distributed. But this still left some questions about submitting guidelines/procedures.&lt;/p&gt;
 
@@ -773,21 +553,21 @@ does not have to be valley related though we appreciate it if you were a valley 
    <id>http://rgvlibrobox.com/2012/11/22/platforms-piratebox-vs-librarybox-vs-libro-box</id>
    <content type="html">&lt;p&gt;What is PirateBox?&lt;/p&gt;
 
-&lt;p&gt;A PirateBox is a device created by a college professor that allows anyone to connect to a device that allows people to share files anonymously to the PirateBox. It essentially creates a repository of media that people can contribute to and download from. Or think of it as a communal USB memory stick. A USB memory stick where everyone can save files on and download from. And all files can be used, edited, and re-shared with anyone who has access to the USB memory stick.&lt;/p&gt;
+&lt;p&gt;A PirateBox is a device created by a college professor that allows anyone to connect to a device that allows people to share files anonymously to the PirateBox. It essentially creates a repository of media that people can contribute to and download from. Or think of it as a communal USB memory stick. A USB memory stick where everyone can save files on and download from. And all files can be used, edited, and re-shared with anyone who has access to the USB memory stick. Find more at &lt;a href=&quot;http://piratebox.cc&quot;&gt;PirateBox.cc&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;What is LibraryBox?&lt;/p&gt;
 
-&lt;p&gt;A LibraryBox is a device similar to the PirateBox but its purpose is to share specific files with people anonymously. It too is a repository of media but it does not allow people to contribute media to the repository. Think of it a USB memory stick that a friend lends to you so you can download a file from it but you don’t put any files in it.&lt;/p&gt;
+&lt;p&gt;A LibraryBox is a device similar to the PirateBox but its purpose is to share specific files with people anonymously. It too is a repository of media but it does not allow people to contribute media to the repository. Think of it a USB memory stick that a friend lends to you so you can download a file from it but you don’t put any files in it. Find more at &lt;a href=&quot;http://librarybox.us&quot;&gt;LibraryBox&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;What is Libro Box?&lt;/p&gt;
+&lt;p&gt;What is LibroBox?&lt;/p&gt;
 
-&lt;p&gt;The Libro Box is a LibraryBox but it will serve as a repository for Chicano literature/media thus inspiring the Spanish name for it.&lt;/p&gt;
+&lt;p&gt;The LibroBox is a LibraryBox but it will serve as a repository for Chicano literature/media thus inspiring the Spanish name for it.&lt;/p&gt;
 
 &lt;p&gt;Wrap Up&lt;/p&gt;
 
 &lt;p&gt;Which does the best goals for this project?&lt;/p&gt;
 
-&lt;p&gt;The LibraryBox(I call it the Libro Box) is the best for this project because this project wants to share large amounts of data with people without the need for them to share it back.&lt;/p&gt;
+&lt;p&gt;The LibraryBox(I call it the LibroBox) is the best for this project because this project wants to share large amounts of data with people without the need for them to share it back.&lt;/p&gt;
 
 &lt;p&gt;When did I decide to go with which?&lt;/p&gt;
 
@@ -795,7 +575,7 @@ does not have to be valley related though we appreciate it if you were a valley 
 
 &lt;p&gt;Can I use a combination of both or only one?&lt;/p&gt;
 
-&lt;p&gt;The PirateBox has some unique features that the Libro Box doesn’t need at the moment. One feature is the ability to share (upload) files to the PirateBox. Since this project is more about giving than receiving I feel the LibraryBox software is better suited. But building a PirateBox required the same exact hardware and software so if the need arises the project can consider using a PirateBox.&lt;/p&gt;
+&lt;p&gt;The PirateBox has some unique features that the LibroBox doesn’t need at the moment. One feature is the ability to share (upload) files to the PirateBox. Since this project is more about giving than receiving I feel the LibraryBox software is better suited. But building a PirateBox required the same exact hardware and software so if the need arises the project can consider using a PirateBox.&lt;/p&gt;
 </content>
  </entry>
  
@@ -835,7 +615,7 @@ Eduardo&lt;/p&gt;
 
 &lt;p&gt;Secondly, there is a donations portal on site and you can find it here. The fundraiser is completely optional but it would help if you could contribute. I predict that I will only need to raise enough money (total cost of $124) to build two additional Libro Boxes. Once that goal is reached I will cease the fundraising campaign, all funds raised will only be used to build the two Libro Boxes.&lt;/p&gt;
 
-&lt;p&gt;Lastly, I will make it a habit of keeping this site up to date. I created a twitter account for the project, simply follow @RGVLibroBox for updates. If you have any questions or concerns you can email me at Feedback@rgvlibrobox.com.&lt;/p&gt;
+&lt;p&gt;Lastly, I will make it a habit of keeping this site up to date. I created a twitter account for the project, simply follow &lt;a href=&quot;http://www.twitter.com/rgvlibrobox&quot;&gt;@RGVLibroBox&lt;/a&gt; for updates. If you have any questions or concerns you can email me at Feedback@rgvlibrobox.com.&lt;/p&gt;
 
 &lt;p&gt;With that I want to thank those who have already started following the project. I want to thank the LibraryBox Project, without them I could not do the RGV Libro Box project. I want to thank the Librotraficantes who inspired me to start the RGV Libro Box project. I want to thank those who have already reached out and offered support. Lastly, I want to thank in advance all of those who support this project through donations.&lt;/p&gt;
 
@@ -897,7 +677,7 @@ Eduardo&lt;/p&gt;
  </entry>
  
  <entry>
-   <title></title>
+   <title>What is in the LibroBox</title>
    <link href="http://rgvlibrobox.com//2012/11/09/so-what-is-the-libro-box-the-libro-box-is-a/"/>
    <updated>2012-11-09T00:00:00-06:00</updated>
    <id>http://rgvlibrobox.com/2012/11/09/so-what-is-the-libro-box-the-libro-box-is-a</id>
@@ -943,7 +723,7 @@ As you can see I included the pricing (rounded up) of each item and multiplied i
  </entry>
  
  <entry>
-   <title></title>
+   <title>Unboxing Video</title>
    <link href="http://rgvlibrobox.com//2012/11/09/heres-the-unboxing-video-of-the-tp-link-mr3020/"/>
    <updated>2012-11-09T00:00:00-06:00</updated>
    <id>http://rgvlibrobox.com/2012/11/09/heres-the-unboxing-video-of-the-tp-link-mr3020</id>

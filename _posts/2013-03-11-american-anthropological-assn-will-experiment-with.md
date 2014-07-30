@@ -2,7 +2,6 @@
 layout: post
 title: American Anthropological Assn. Will Experiment With Open Access
 date: '2013-03-11T21:30:53-05:00'
-tags: []
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/45155208535/american-anthropological-assn-will-experiment-with
 ---
 American Anthropological Assn. Will Experiment With Open Accessinfoneer-pulse:

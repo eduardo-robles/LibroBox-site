@@ -2,14 +2,6 @@
 layout: post
 title: LibroBox-Design-2.0
 date: '2013-07-06T19:06:24-05:00'
-tags:
-- github
-- code
-- html
-- rgv
-- LibroBox
-- tech
-- internet
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/54784437819/librobox-design-2-0
 ---
 LibroBox-Design-2.0LibroBox-Design-2.0 - LibroBox Landing Page design 2.0

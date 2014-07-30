@@ -1,13 +1,7 @@
 ---
 layout: post
-title: ''
+title: 'Video of LibroBox'
 date: '2013-01-21T11:17:53-06:00'
-tags:
-- rgv
-- TX
-- libro
-- Box
-- video
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/41108994057/videooflibrobox
 ---
 Hello Everyone!

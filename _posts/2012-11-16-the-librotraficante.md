@@ -2,8 +2,6 @@
 layout: post
 title: The Librotraficante!
 date: '2012-11-16T00:00:00-06:00'
-tags:
-- elblog
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/40129807575/the-librotraficante
 ---
 In the last post I outlined some of the ideas behind the project and what I ultimately hope to accomplish. In this post I will examine how our project fits into the whole Librotraficante movement (Book Trafficker) taking place across the country.
@@ -11,7 +9,6 @@ In the last post I outlined some of the ideas behind the project and what I ulti
 First, a bit of history on the Librotraficante movement for those who may not be familiar with it. The movement was a response to the Arizona House Bill 2281 which states “HB 2281 prohibits a school district or charter school from including courses or classes that either promote the overthrow of the United States government or promote resentment toward a race or class of people." via Arizona State Legislature.
 
 The ambiguous language of the law caused the banning of 80+ books from the Tucson Unified School District. So the Librotrafincantes “smuggle[d] books back into the hands of our youth,” by collecting books and transporting them by way of a caravan into Arizona. So thus the now famous Librotrafincate Caravan was born.
-
 
 
 It was a glorious and peaceful movement that ignited people to mobilize against this common threat. The movement brought attention to frailty that many ethnic studies programs faced across the country. For me it obviously hit home because I protested against the elimination of the Mexican American Studies program at my University. It was under different circumstances but the end result would have been the same.

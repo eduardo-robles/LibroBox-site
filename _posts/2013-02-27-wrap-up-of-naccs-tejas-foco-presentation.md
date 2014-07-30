@@ -2,18 +2,9 @@
 layout: post
 title: Wrap Up of NACCS Tejas FOCO Presentation
 date: '2013-02-27T00:04:56-06:00'
-tags:
-- ElBlog
-- TX
-- rgv
-- chicano
-- chicana
-- libro
-- Box
-- naccs
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/44121851471/wrap-up-of-naccs-tejas-foco-presentation
 ---
-This past Friday the 22nd of February I presented the RGV Libro Box project at the National Association of Chicana Chicano Studies Tejas Foco conference. It was the first conference for me and the first time the Libro Box was presented in public. I have to say that it was a big success not only on a personal level but a professional one as well. I was able to network with some very influential people at the conference.
+This past Friday the 22nd of February I presented the RGV LibroBox project at the National Association of Chicana Chicano Studies Tejas Foco conference. It was the first conference for me and the first time the Libro Box was presented in public. I have to say that it was a big success not only on a personal level but a professional one as well. I was able to network with some very influential people at the conference.
 
 I had the priviledge to meet Tony Diaz El Librotraficante and the Librotraficante Crew. They are an extremely dedicated group and they do some amazing work. I also met Sarah Rafael Garcia who is doing incredible work with Barrio Writers. Barrio Writers is a great program that helps our youth by providing them with an outlet to express themselves in a safe and encouraging environment.
 

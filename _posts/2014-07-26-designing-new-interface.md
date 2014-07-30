@@ -2,12 +2,6 @@
 layout: post
 title: Designing new interface
 date: '2014-07-26T11:31:00-05:00'
-tags:
-- Librarybox
-- LibroBox
-- Piratebox
-- mockup
-- design
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/92925458949/designing-new-interface
 ---
 It’s been some time since I sat down and desinged a new interface for the LibroBox. That’s why this past week I decided to give it another try and it was fun. Mainly because I found a new app that helps me build some quick protypes. The app is called POP and is available for iOS, Android, and via a web interface.

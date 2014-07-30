@@ -2,8 +2,6 @@
 layout: post
 title: Will it work?
 date: '2012-11-09T00:00:00-06:00'
-tags:
-- elblog
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/40129979470/will-it-work
 ---
 Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible. -St. Francis of Assisi

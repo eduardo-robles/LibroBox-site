@@ -2,8 +2,6 @@
 layout: post
 title: So what's the plan?
 date: '2012-11-13T00:00:00-06:00'
-tags:
-- elblog
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/40129901231/so-whats-the-plan
 ---
 This project is still in it’s early stages but I hope to be as transparent as possible. I believe in being as open and transparent as possible. This way we all learn together and can build a community together.

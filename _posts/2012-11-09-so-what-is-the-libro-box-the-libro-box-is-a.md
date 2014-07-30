@@ -1,9 +1,7 @@
 ---
 layout: post
-title: ''
+title: 'What is in the LibroBox'
 date: '2012-11-09T00:00:00-06:00'
-tags:
-- elblog
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/40130156448/so-what-is-the-libro-box-the-libro-box-is-a
 ---
 So What is the Libro Box?

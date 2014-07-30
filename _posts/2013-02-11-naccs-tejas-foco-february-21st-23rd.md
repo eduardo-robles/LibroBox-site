@@ -2,16 +2,6 @@
 layout: post
 title: NACCS TEJAS FOCO February 21st-23rd
 date: '2013-02-11T12:33:00-06:00'
-tags:
-- rgv
-- tx
-- libro
-- Box
-- Tech
-- NACCS
-- Chicano
-- Chicana
-- Latism
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/42851333565/naccs-tejas-foco-february-21st-23rd
 ---
 I have some exciting news, I will presenting the RGV Libro Box Project at the National Association for Chicano/Chicana Studies Tejas Foco regional conference!! The conference will take place at the University of Texas Pan American this February 21-23.

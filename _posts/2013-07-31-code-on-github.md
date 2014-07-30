@@ -2,11 +2,6 @@
 layout: post
 title: Code on Github.
 date: '2013-07-31T18:12:33-05:00'
-tags:
-- future
-- LibroBox
-- rgv
-- tx
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/57005913418/code-on-github
 ---
 As a refresher I put up some of the LibroBox landing page design code up on Github. You can find the post here. The post was short and sweet because the Github page is where the real magic happens!

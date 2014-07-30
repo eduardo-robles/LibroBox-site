@@ -2,8 +2,6 @@
 layout: post
 title: From LibraryBox to Libro Box
 date: '2012-11-09T00:00:00-06:00'
-tags:
-- elblog
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/40130053665/from-librarybox-to-libro-box
 ---
 The idea of what is a Libro Box is kind of hard to explain in words. It’s easier to explain with a hands on demonstration or video. Nonetheless I believe that it is still a good idea to try to explain some of the details of the Libro Box in a post.

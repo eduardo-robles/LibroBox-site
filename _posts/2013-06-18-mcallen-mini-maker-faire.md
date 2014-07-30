@@ -2,17 +2,9 @@
 layout: post
 title: McAllen Mini Maker Faire
 date: '2013-06-18T09:17:58-05:00'
-tags:
-- rgv
-- tx
-- mcallen
-- LibroBox
-- maker
-- faire
-- diy
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/53274857614/mcallen-mini-maker-faire
 ---
-McAllen Mini Maker FaireMake â¢ Create â¢ Craft â¢ Build â¢ Play
+McAllen Mini Maker FaireMake. Create, Craft, Build and Play
 
 
 

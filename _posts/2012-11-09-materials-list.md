@@ -2,8 +2,6 @@
 layout: post
 title: Materials List
 date: '2012-11-09T00:00:00-06:00'
-tags:
-- elblog
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/40130372629/materials-list
 ---
 Building a Libro Box is relatively simple it requires very little components and a few hours of your time. In order to remain transparent as possible I’m going to outline the supplies I plan on using for this project.

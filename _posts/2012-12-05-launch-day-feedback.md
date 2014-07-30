@@ -2,11 +2,9 @@
 layout: post
 title: Launch Day Feedback
 date: '2012-12-05T00:00:00-06:00'
-tags:
-- elblog
 tumblr_url: http://rgvlibroboxproject.tumblr.com/post/40129156844/launch-day-feedback
 ---
-Today has been a great day! As of officially announcing the RGV Libro Box Project I have gotten a lot of well wishes and constructive feedback. For that I thank you and encourage more open discussion.
+Today has been a great day! As of officially announcing the RGV LibroBox Project I have gotten a lot of well wishes and constructive feedback. For that I thank you and encourage more open discussion.
 
 One important piece of feedback I have gotten so far is in regards to submitting work (art, literature, etc) to the project. Before launch I had expressed a preference that any work submitted or added to the Libro Box is to be "Free to Use” : as in anything that can be freely; downloaded, copied, and distributed. But this still left some questions about submitting guidelines/procedures.
 

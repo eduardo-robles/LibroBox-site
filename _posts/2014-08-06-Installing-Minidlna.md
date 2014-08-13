@@ -4,6 +4,9 @@ title: Installing MinDLNA
 date: '2014-08-06'
 ---
 
+**Update**
+_I have been testing this feature and found it unstable for normal everyday use. I'm not sure yet what is the issue but it may be some misconfigured settings. Either way I suggest to not use unless you want some instability issues or want to simply test this feature._
+
 This past week I decided to try to install _MiniDLNA_ on my _LibroBox_. I got the idea after stumbling on a thread on the _LibraryBox_ Google Groups group. The installation did not seem difficult if you installed _LibraryBox_ via the "auto-install" feature. The installation is literally downloading a ZIP file and editing a single file.
 So let's get to installing _MiniDLNA_ on your _LibraryBox_! Disclaimer, make sure you have an internet connection just in case someting goes wrong you can find help.
 

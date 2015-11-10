@@ -22,4 +22,4 @@ github:
   repo:           https://github.com/poole/poole
 
 # This is the list of pages to incldue in the header of the website.
-pages_list: {'About':'/about-lb','Archive':'/archive-lb','Connect':'/connect-lb','Feed':'/atom.xml'}
+pages_list: {'About':'Librobox-site/about-lb','Archive':'Librobox-site/archive-lb','Connect':'Librobox-site/connect-lb','Feed':'Librobox-site/atom.xml'}

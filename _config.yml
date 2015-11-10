@@ -10,7 +10,7 @@ title:            RGV LibroBox
 tagline:          LibroBox
 url:              http://eduardorobles.com/Librobox-site
 paginate:         1
-baseurl:          /Librobox-site
+baseurl:          /LibroBox-site
 author:
   name:           Eduardo Robles
   url:            https://twitter.com/rgvlibrobox
@@ -22,4 +22,4 @@ github:
   repo:           https://github.com/poole/poole
 
 # This is the list of pages to incldue in the header of the website.
-pages_list: {'About':'Librobox-site/about-lb','Archive':'Librobox-site/archive-lb','Connect':'Librobox-site/connect-lb','Feed':'Librobox-site/atom.xml'}
+pages_list: {'About':'LibroBox-site/about-lb','Archive':'LibroBox-site/archive-lb','Connect':'LibroBox-site/connect-lb','Feed':'LibroBox-site/atom.xml'}
